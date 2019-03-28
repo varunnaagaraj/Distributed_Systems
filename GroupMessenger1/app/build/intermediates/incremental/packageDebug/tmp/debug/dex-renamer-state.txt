@@ -1,0 +1,4 @@
+#Mon Mar 04 14:17:59 EST 2019
+base.0=/Users/Varun/Downloads/DS Projects/GroupMessenger1/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
