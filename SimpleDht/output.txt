@@ -1,0 +1,2213 @@
+
+Testing the content provider
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 15.6 MB/s (99828 bytes in 0.006s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5556
+Inserting (emulator-5556) EEybjKOOpEgphbAP2p46i8jfP3rNGCPI xUFwIDFW2X3PbWqu8q5QCTjUSooj5cVH
+Inserting (emulator-5556) TxUUehn8dYPCOPHzLLXecVzz6XbqEuwP gzr83xACr0zZxwzmxXWOdr46fBVRHG0o
+Inserting (emulator-5556) SnqgLLSZOGxH4wWYJ8FJyIVT0SabuBou MrW4qDMgaa3ilgWAqcC7uSJrU5VEuLIZ
+Inserting (emulator-5556) THYGsVvCluiynBASe70NJ5Qr9sUG1dht kYWukYfxgqlcJJDLcUEjJnzxFoyPBr1Z
+Inserting (emulator-5556) CK1o6SYLMrH9ygZSpJSD0vtA9UJLx9ni BCPTSjLdaCJ69bY1cz2GQXwgBtal7PxN
+Querying (emulator-5556) EEybjKOOpEgphbAP2p46i8jfP3rNGCPI
+Querying (emulator-5556) TxUUehn8dYPCOPHzLLXecVzz6XbqEuwP
+Querying (emulator-5556) SnqgLLSZOGxH4wWYJ8FJyIVT0SabuBou
+Querying (emulator-5556) THYGsVvCluiynBASe70NJ5Qr9sUG1dht
+Querying (emulator-5556) CK1o6SYLMrH9ygZSpJSD0vtA9UJLx9ni
+Testing  EEybjKOOpEgphbAP2p46i8jfP3rNGCPI xUFwIDFW2X3PbWqu8q5QCTjUSooj5cVH
+Testing  TxUUehn8dYPCOPHzLLXecVzz6XbqEuwP gzr83xACr0zZxwzmxXWOdr46fBVRHG0o
+Testing  SnqgLLSZOGxH4wWYJ8FJyIVT0SabuBou MrW4qDMgaa3ilgWAqcC7uSJrU5VEuLIZ
+Testing  THYGsVvCluiynBASe70NJ5Qr9sUG1dht kYWukYfxgqlcJJDLcUEjJnzxFoyPBr1Z
+Testing  CK1o6SYLMrH9ygZSpJSD0vtA9UJLx9ni BCPTSjLdaCJ69bY1cz2GQXwgBtal7PxN
+Testing "*" query
+Querying (emulator-5556) "*"
+Testing  EEybjKOOpEgphbAP2p46i8jfP3rNGCPI xUFwIDFW2X3PbWqu8q5QCTjUSooj5cVH
+Testing  TxUUehn8dYPCOPHzLLXecVzz6XbqEuwP gzr83xACr0zZxwzmxXWOdr46fBVRHG0o
+Testing  SnqgLLSZOGxH4wWYJ8FJyIVT0SabuBou MrW4qDMgaa3ilgWAqcC7uSJrU5VEuLIZ
+Testing  THYGsVvCluiynBASe70NJ5Qr9sUG1dht kYWukYfxgqlcJJDLcUEjJnzxFoyPBr1Z
+Testing  CK1o6SYLMrH9ygZSpJSD0vtA9UJLx9ni BCPTSjLdaCJ69bY1cz2GQXwgBtal7PxN
+Testing "@" query
+Querying (emulator-5556) "@"
+Testing  EEybjKOOpEgphbAP2p46i8jfP3rNGCPI xUFwIDFW2X3PbWqu8q5QCTjUSooj5cVH
+Testing  TxUUehn8dYPCOPHzLLXecVzz6XbqEuwP gzr83xACr0zZxwzmxXWOdr46fBVRHG0o
+Testing  SnqgLLSZOGxH4wWYJ8FJyIVT0SabuBou MrW4qDMgaa3ilgWAqcC7uSJrU5VEuLIZ
+Testing  THYGsVvCluiynBASe70NJ5Qr9sUG1dht kYWukYfxgqlcJJDLcUEjJnzxFoyPBr1Z
+Testing  CK1o6SYLMrH9ygZSpJSD0vtA9UJLx9ni BCPTSjLdaCJ69bY1cz2GQXwgBtal7PxN
+Total score so far: 1
+
+Testing insert with 5 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 15.2 MB/s (99828 bytes in 0.006s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 12.4 MB/s (99828 bytes in 0.008s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 11.5 MB/s (99828 bytes in 0.008s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 19.2 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 16.0 MB/s (99828 bytes in 0.006s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5562
+Starting on emulator-5560
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) VtMGDJezrfAQsXDJKuJ1IwYiLclAwsgq mcjXmJwjJHk2aLuXFPAh0H9fGXjAJRYe
+Inserting (emulator-5554) 049VTivc2X0o1jaSu67gKA4OMk8dim3t I2uP2iQ7oc51uJGsITs5MOXXk15vQBsk
+Inserting (emulator-5554) huxSkBtpHj6L4Z2Xrh5NeqmzpUAJFyzT l0Wm52UMaOAyia5qMhuqWlPuNgLMrmy5
+Inserting (emulator-5554) 80fdzzbvI3dapfLZF2vcudBEjOCgW9US SmLzcc7BCuqx4npbGWU386NIrUNCWyHj
+Inserting (emulator-5554) eXrrXm490m69BJjOMXn8dyfWIizq5AJG bcOu1G2j7RvX19FqkBG5Z7Z53DOYuUaj
+Inserting from emulator-5556
+Inserting (emulator-5556) LNuuunjInWXNZUvKUtCBknPc0D6i2tF0 fYsxCf26YIlve1tXVNskP87i8l9HcZd7
+Inserting (emulator-5556) 45V1zBafUTfVO12xaMCghQzSKTjYc8XP VLdNvBDrBidTVINO8jhiXWXMoTKGwfnS
+Inserting (emulator-5556) nRmNZEWwUwgGzhPOVjWWpVNNGpYwHMBS 8bV2K8sH3mBuZ98anWe8DI4csi5VxR8G
+Inserting (emulator-5556) IpTzxxGLZfuWw3LOVDLI6WXRtrt4FgUf BOMxqarAe3BzwdEr4Gl9kDklZ5WA4Een
+Inserting (emulator-5556) 4iF54eXqOEQLYZDU3mGIqqRTMjUYA2Gp pSRIk5C24Rh5a9zwxgzoivdOu3qhnGn6
+Inserting from emulator-5558
+Inserting (emulator-5558) OPdk5AbTgwhzJf8RjdTBt2uzHPlVKGlg 9jAcKHTeYEyRhoXJGMhATP6gReAbYJ4u
+Inserting (emulator-5558) sJhKVyP9Ssfzf6MmiGFWEPNKSxTR4ySW W9XQ4LqWMEOUbizJwpYpQi1oTbPbSCvY
+Inserting (emulator-5558) aDV2bDtWxo7BV924g7k4TFW8yfljjzx7 V8EALX9ewJlbaPmhn7tNrhQ2NGY9TN2w
+Inserting (emulator-5558) pquwlENKmvaUNnfM15H9frqhbUVRlxxW xjq2cz2QJHM1agl8kNkDSvLOnI4EtXzi
+Inserting (emulator-5558) kknHwvhip0CpxswkHI6Yoqw94XY2ghYx RV4qVLylZd8GIRtTuP17B6evBOSrkLsj
+Inserting from emulator-5562
+Inserting (emulator-5562) GxVRrwnxgNXVXjZk0ylN1NtADGvST5he pIUMn6IuEmazuVUMqOsFGeiFHo43UWDc
+Inserting (emulator-5562) 51o0Q2QE2luPssOzucG2koTSWTsDjAxG ZpGYB8kXZ2rSMJd5NSxWfqoIgqU23F3u
+Inserting (emulator-5562) 4yYagGuKBEmkps74QqXz7UFVPvbR9Q7N VGWrrNpFA0U2AGC3PUVwtuEicFFJxWMH
+Inserting (emulator-5562) XNZ0J6bxFPQYuEVzy71pM7YZdlbMQADB VEZF9FvQL04FUTR5UJRVBjNz8ghsYzye
+Inserting (emulator-5562) YozBpeXOeeJl5Xo5DkQ1LOoo5R9DD5r6 7VlYbT2JXUbyhHSMdNFJgadjMWbg3gQV
+Inserting from emulator-5560
+Inserting (emulator-5560) 10kn0EyLSJgdjiBhxR6snbLVdUllCWa4 Z3qNhRpiP4YYgr6dERCqwtSgtFCuQDOC
+Inserting (emulator-5560) P6yMNjnuHEQ3y1yi5yUNo14d8a7Bx9tC eFQ6sLUcbZWEI23G6ebWwW9wJYYIc5gL
+Inserting (emulator-5560) yvpAQLonpBVDVlEFlCzggt76E3Sa0qW3 IK1GOehVBTV9YOjVQGSDDk77xyWy1F4C
+Inserting (emulator-5560) OwBE2D2KN7a57fQ07n3xvfHrP5rnOD3n hvSKu5zzWctTkqD9eu28crAvgmpKIruI
+Inserting (emulator-5560) KHToFP6q9bj4rwBLSZhhbdI1WFfL9UJ2 wTgMruMZVW59bHGceE3GPSIyfT0OcRcH
+Waiting for 5 seconds for insert operations to complete
+Dumping from emulator-5554
+Querying (emulator-5554) "@"
+45V1zBafUTfVO12xaMCghQzSKTjYc8XP VLdNvBDrBidTVINO8jhiXWXMoTKGwfnS
+pquwlENKmvaUNnfM15H9frqhbUVRlxxW xjq2cz2QJHM1agl8kNkDSvLOnI4EtXzi
+Dumping from emulator-5556
+Querying (emulator-5556) "@"
+GxVRrwnxgNXVXjZk0ylN1NtADGvST5he pIUMn6IuEmazuVUMqOsFGeiFHo43UWDc
+Dumping from emulator-5558
+Querying (emulator-5558) "@"
+OPdk5AbTgwhzJf8RjdTBt2uzHPlVKGlg 9jAcKHTeYEyRhoXJGMhATP6gReAbYJ4u
+XNZ0J6bxFPQYuEVzy71pM7YZdlbMQADB VEZF9FvQL04FUTR5UJRVBjNz8ghsYzye
+sJhKVyP9Ssfzf6MmiGFWEPNKSxTR4ySW W9XQ4LqWMEOUbizJwpYpQi1oTbPbSCvY
+049VTivc2X0o1jaSu67gKA4OMk8dim3t I2uP2iQ7oc51uJGsITs5MOXXk15vQBsk
+yvpAQLonpBVDVlEFlCzggt76E3Sa0qW3 IK1GOehVBTV9YOjVQGSDDk77xyWy1F4C
+LNuuunjInWXNZUvKUtCBknPc0D6i2tF0 fYsxCf26YIlve1tXVNskP87i8l9HcZd7
+VtMGDJezrfAQsXDJKuJ1IwYiLclAwsgq mcjXmJwjJHk2aLuXFPAh0H9fGXjAJRYe
+80fdzzbvI3dapfLZF2vcudBEjOCgW9US SmLzcc7BCuqx4npbGWU386NIrUNCWyHj
+51o0Q2QE2luPssOzucG2koTSWTsDjAxG ZpGYB8kXZ2rSMJd5NSxWfqoIgqU23F3u
+kknHwvhip0CpxswkHI6Yoqw94XY2ghYx RV4qVLylZd8GIRtTuP17B6evBOSrkLsj
+Dumping from emulator-5562
+Querying (emulator-5562) "@"
+10kn0EyLSJgdjiBhxR6snbLVdUllCWa4 Z3qNhRpiP4YYgr6dERCqwtSgtFCuQDOC
+P6yMNjnuHEQ3y1yi5yUNo14d8a7Bx9tC eFQ6sLUcbZWEI23G6ebWwW9wJYYIc5gL
+nRmNZEWwUwgGzhPOVjWWpVNNGpYwHMBS 8bV2K8sH3mBuZ98anWe8DI4csi5VxR8G
+aDV2bDtWxo7BV924g7k4TFW8yfljjzx7 V8EALX9ewJlbaPmhn7tNrhQ2NGY9TN2w
+YozBpeXOeeJl5Xo5DkQ1LOoo5R9DD5r6 7VlYbT2JXUbyhHSMdNFJgadjMWbg3gQV
+KHToFP6q9bj4rwBLSZhhbdI1WFfL9UJ2 wTgMruMZVW59bHGceE3GPSIyfT0OcRcH
+OwBE2D2KN7a57fQ07n3xvfHrP5rnOD3n hvSKu5zzWctTkqD9eu28crAvgmpKIruI
+eXrrXm490m69BJjOMXn8dyfWIizq5AJG bcOu1G2j7RvX19FqkBG5Z7Z53DOYuUaj
+Dumping from emulator-5560
+Querying (emulator-5560) "@"
+4yYagGuKBEmkps74QqXz7UFVPvbR9Q7N VGWrrNpFA0U2AGC3PUVwtuEicFFJxWMH
+IpTzxxGLZfuWw3LOVDLI6WXRtrt4FgUf BOMxqarAe3BzwdEr4Gl9kDklZ5WA4Een
+huxSkBtpHj6L4Z2Xrh5NeqmzpUAJFyzT l0Wm52UMaOAyia5qMhuqWlPuNgLMrmy5
+4iF54eXqOEQLYZDU3mGIqqRTMjUYA2Gp pSRIk5C24Rh5a9zwxgzoivdOu3qhnGn6
+Testing  P6yMNjnuHEQ3y1yi5yUNo14d8a7Bx9tC eFQ6sLUcbZWEI23G6ebWwW9wJYYIc5gL
+Testing  OPdk5AbTgwhzJf8RjdTBt2uzHPlVKGlg 9jAcKHTeYEyRhoXJGMhATP6gReAbYJ4u
+Testing  45V1zBafUTfVO12xaMCghQzSKTjYc8XP VLdNvBDrBidTVINO8jhiXWXMoTKGwfnS
+Testing  51o0Q2QE2luPssOzucG2koTSWTsDjAxG ZpGYB8kXZ2rSMJd5NSxWfqoIgqU23F3u
+Testing  4iF54eXqOEQLYZDU3mGIqqRTMjUYA2Gp pSRIk5C24Rh5a9zwxgzoivdOu3qhnGn6
+Testing  049VTivc2X0o1jaSu67gKA4OMk8dim3t I2uP2iQ7oc51uJGsITs5MOXXk15vQBsk
+Testing  pquwlENKmvaUNnfM15H9frqhbUVRlxxW xjq2cz2QJHM1agl8kNkDSvLOnI4EtXzi
+Testing  LNuuunjInWXNZUvKUtCBknPc0D6i2tF0 fYsxCf26YIlve1tXVNskP87i8l9HcZd7
+Testing  huxSkBtpHj6L4Z2Xrh5NeqmzpUAJFyzT l0Wm52UMaOAyia5qMhuqWlPuNgLMrmy5
+Testing  4yYagGuKBEmkps74QqXz7UFVPvbR9Q7N VGWrrNpFA0U2AGC3PUVwtuEicFFJxWMH
+Testing  OwBE2D2KN7a57fQ07n3xvfHrP5rnOD3n hvSKu5zzWctTkqD9eu28crAvgmpKIruI
+Testing  nRmNZEWwUwgGzhPOVjWWpVNNGpYwHMBS 8bV2K8sH3mBuZ98anWe8DI4csi5VxR8G
+Testing  IpTzxxGLZfuWw3LOVDLI6WXRtrt4FgUf BOMxqarAe3BzwdEr4Gl9kDklZ5WA4Een
+Testing  yvpAQLonpBVDVlEFlCzggt76E3Sa0qW3 IK1GOehVBTV9YOjVQGSDDk77xyWy1F4C
+Testing  VtMGDJezrfAQsXDJKuJ1IwYiLclAwsgq mcjXmJwjJHk2aLuXFPAh0H9fGXjAJRYe
+Testing  kknHwvhip0CpxswkHI6Yoqw94XY2ghYx RV4qVLylZd8GIRtTuP17B6evBOSrkLsj
+Testing  10kn0EyLSJgdjiBhxR6snbLVdUllCWa4 Z3qNhRpiP4YYgr6dERCqwtSgtFCuQDOC
+Testing  XNZ0J6bxFPQYuEVzy71pM7YZdlbMQADB VEZF9FvQL04FUTR5UJRVBjNz8ghsYzye
+Testing  sJhKVyP9Ssfzf6MmiGFWEPNKSxTR4ySW W9XQ4LqWMEOUbizJwpYpQi1oTbPbSCvY
+Testing  aDV2bDtWxo7BV924g7k4TFW8yfljjzx7 V8EALX9ewJlbaPmhn7tNrhQ2NGY9TN2w
+Testing  YozBpeXOeeJl5Xo5DkQ1LOoo5R9DD5r6 7VlYbT2JXUbyhHSMdNFJgadjMWbg3gQV
+Testing  80fdzzbvI3dapfLZF2vcudBEjOCgW9US SmLzcc7BCuqx4npbGWU386NIrUNCWyHj
+Testing  KHToFP6q9bj4rwBLSZhhbdI1WFfL9UJ2 wTgMruMZVW59bHGceE3GPSIyfT0OcRcH
+Testing  GxVRrwnxgNXVXjZk0ylN1NtADGvST5he pIUMn6IuEmazuVUMqOsFGeiFHo43UWDc
+Testing  eXrrXm490m69BJjOMXn8dyfWIizq5AJG bcOu1G2j7RvX19FqkBG5Z7Z53DOYuUaj
+Verifying emulator-5554
+Querying (emulator-5554) "@"
+Testing  45V1zBafUTfVO12xaMCghQzSKTjYc8XP VLdNvBDrBidTVINO8jhiXWXMoTKGwfnS
+Testing  pquwlENKmvaUNnfM15H9frqhbUVRlxxW xjq2cz2QJHM1agl8kNkDSvLOnI4EtXzi
+Verifying emulator-5556
+Querying (emulator-5556) "@"
+Testing  GxVRrwnxgNXVXjZk0ylN1NtADGvST5he pIUMn6IuEmazuVUMqOsFGeiFHo43UWDc
+Verifying emulator-5558
+Querying (emulator-5558) "@"
+Testing  OPdk5AbTgwhzJf8RjdTBt2uzHPlVKGlg 9jAcKHTeYEyRhoXJGMhATP6gReAbYJ4u
+Testing  XNZ0J6bxFPQYuEVzy71pM7YZdlbMQADB VEZF9FvQL04FUTR5UJRVBjNz8ghsYzye
+Testing  sJhKVyP9Ssfzf6MmiGFWEPNKSxTR4ySW W9XQ4LqWMEOUbizJwpYpQi1oTbPbSCvY
+Testing  049VTivc2X0o1jaSu67gKA4OMk8dim3t I2uP2iQ7oc51uJGsITs5MOXXk15vQBsk
+Testing  yvpAQLonpBVDVlEFlCzggt76E3Sa0qW3 IK1GOehVBTV9YOjVQGSDDk77xyWy1F4C
+Testing  LNuuunjInWXNZUvKUtCBknPc0D6i2tF0 fYsxCf26YIlve1tXVNskP87i8l9HcZd7
+Testing  VtMGDJezrfAQsXDJKuJ1IwYiLclAwsgq mcjXmJwjJHk2aLuXFPAh0H9fGXjAJRYe
+Testing  80fdzzbvI3dapfLZF2vcudBEjOCgW9US SmLzcc7BCuqx4npbGWU386NIrUNCWyHj
+Testing  51o0Q2QE2luPssOzucG2koTSWTsDjAxG ZpGYB8kXZ2rSMJd5NSxWfqoIgqU23F3u
+Testing  kknHwvhip0CpxswkHI6Yoqw94XY2ghYx RV4qVLylZd8GIRtTuP17B6evBOSrkLsj
+Verifying emulator-5562
+Querying (emulator-5562) "@"
+Testing  10kn0EyLSJgdjiBhxR6snbLVdUllCWa4 Z3qNhRpiP4YYgr6dERCqwtSgtFCuQDOC
+Testing  P6yMNjnuHEQ3y1yi5yUNo14d8a7Bx9tC eFQ6sLUcbZWEI23G6ebWwW9wJYYIc5gL
+Testing  nRmNZEWwUwgGzhPOVjWWpVNNGpYwHMBS 8bV2K8sH3mBuZ98anWe8DI4csi5VxR8G
+Testing  aDV2bDtWxo7BV924g7k4TFW8yfljjzx7 V8EALX9ewJlbaPmhn7tNrhQ2NGY9TN2w
+Testing  YozBpeXOeeJl5Xo5DkQ1LOoo5R9DD5r6 7VlYbT2JXUbyhHSMdNFJgadjMWbg3gQV
+Testing  KHToFP6q9bj4rwBLSZhhbdI1WFfL9UJ2 wTgMruMZVW59bHGceE3GPSIyfT0OcRcH
+Testing  OwBE2D2KN7a57fQ07n3xvfHrP5rnOD3n hvSKu5zzWctTkqD9eu28crAvgmpKIruI
+Testing  eXrrXm490m69BJjOMXn8dyfWIizq5AJG bcOu1G2j7RvX19FqkBG5Z7Z53DOYuUaj
+Verifying emulator-5560
+Querying (emulator-5560) "@"
+Testing  4yYagGuKBEmkps74QqXz7UFVPvbR9Q7N VGWrrNpFA0U2AGC3PUVwtuEicFFJxWMH
+Testing  IpTzxxGLZfuWw3LOVDLI6WXRtrt4FgUf BOMxqarAe3BzwdEr4Gl9kDklZ5WA4Een
+Testing  huxSkBtpHj6L4Z2Xrh5NeqmzpUAJFyzT l0Wm52UMaOAyia5qMhuqWlPuNgLMrmy5
+Testing  4iF54eXqOEQLYZDU3mGIqqRTMjUYA2Gp pSRIk5C24Rh5a9zwxgzoivdOu3qhnGn6
+Total score so far: 3
+
+Testing query with 5 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 17.7 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 26.7 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 20.4 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 19.7 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 24.1 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Starting on emulator-5556
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Inserting (emulator-5554) fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Inserting (emulator-5554) DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Inserting (emulator-5554) lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Inserting (emulator-5554) FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Inserting from emulator-5558
+Inserting (emulator-5558) tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Inserting (emulator-5558) 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Inserting (emulator-5558) Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Inserting (emulator-5558) NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Inserting (emulator-5558) 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Inserting from emulator-5560
+Inserting (emulator-5560) MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Inserting (emulator-5560) SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Inserting (emulator-5560) GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Inserting (emulator-5560) VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Inserting (emulator-5560) KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Inserting from emulator-5562
+Inserting (emulator-5562) er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Inserting (emulator-5562) T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Inserting (emulator-5562) iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Inserting (emulator-5562) ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Inserting (emulator-5562) 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Inserting from emulator-5556
+Inserting (emulator-5556) OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Inserting (emulator-5556) xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Inserting (emulator-5556) A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Inserting (emulator-5556) IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Inserting (emulator-5556) Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Waiting for 5 seconds for insert operations to complete
+Querying from emulator-5554
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Querying (emulator-5554) OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Querying (emulator-5554) 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Querying (emulator-5554) Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Querying (emulator-5554) tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Querying (emulator-5554) fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Querying (emulator-5554) ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Querying (emulator-5554) MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Querying (emulator-5554) IwZe61aBgKxtdscggFeFtw6Mz69y6c5j
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Querying (emulator-5554) SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Querying (emulator-5554) T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Querying (emulator-5554) A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Querying (emulator-5554) r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Querying (emulator-5554) xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Querying (emulator-5554) lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Querying (emulator-5554) er1JRwCHi7NPqQFqTvdgRVWt318lGYe3
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Querying (emulator-5554) FYZPEujzApq98XxQr4N4HcAnEmDrXaI0
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Querying (emulator-5554) GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Querying (emulator-5554) DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Querying (emulator-5554) Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Querying (emulator-5554) iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Querying (emulator-5554) 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Querying (emulator-5554) KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Querying (emulator-5554) 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Querying (emulator-5554) VaWrX47q1kLVafVuCCAUaMQG6VuUphx7
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying (emulator-5554) NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB
+Querying from emulator-5558
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Querying (emulator-5558) OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Querying (emulator-5558) 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Querying (emulator-5558) Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Querying (emulator-5558) tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Querying (emulator-5558) fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Querying (emulator-5558) ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Querying (emulator-5558) MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Querying (emulator-5558) IwZe61aBgKxtdscggFeFtw6Mz69y6c5j
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Querying (emulator-5558) SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Querying (emulator-5558) T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Querying (emulator-5558) A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Querying (emulator-5558) r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Querying (emulator-5558) xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Querying (emulator-5558) lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Querying (emulator-5558) er1JRwCHi7NPqQFqTvdgRVWt318lGYe3
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Querying (emulator-5558) FYZPEujzApq98XxQr4N4HcAnEmDrXaI0
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Querying (emulator-5558) GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Querying (emulator-5558) DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Querying (emulator-5558) Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Querying (emulator-5558) iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Querying (emulator-5558) 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Querying (emulator-5558) KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Querying (emulator-5558) 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Querying (emulator-5558) VaWrX47q1kLVafVuCCAUaMQG6VuUphx7
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying (emulator-5558) NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB
+Querying from emulator-5560
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Querying (emulator-5560) OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Querying (emulator-5560) 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Querying (emulator-5560) Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Querying (emulator-5560) tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Querying (emulator-5560) fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Querying (emulator-5560) ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Querying (emulator-5560) MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Querying (emulator-5560) IwZe61aBgKxtdscggFeFtw6Mz69y6c5j
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Querying (emulator-5560) SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Querying (emulator-5560) T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Querying (emulator-5560) A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Querying (emulator-5560) r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Querying (emulator-5560) xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Querying (emulator-5560) lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Querying (emulator-5560) er1JRwCHi7NPqQFqTvdgRVWt318lGYe3
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Querying (emulator-5560) FYZPEujzApq98XxQr4N4HcAnEmDrXaI0
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Querying (emulator-5560) GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Querying (emulator-5560) DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Querying (emulator-5560) Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Querying (emulator-5560) iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Querying (emulator-5560) 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Querying (emulator-5560) KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Querying (emulator-5560) 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Querying (emulator-5560) VaWrX47q1kLVafVuCCAUaMQG6VuUphx7
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying (emulator-5560) NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB
+Querying from emulator-5562
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Querying (emulator-5562) OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Querying (emulator-5562) 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Querying (emulator-5562) Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Querying (emulator-5562) tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Querying (emulator-5562) fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Querying (emulator-5562) ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Querying (emulator-5562) MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Querying (emulator-5562) IwZe61aBgKxtdscggFeFtw6Mz69y6c5j
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Querying (emulator-5562) SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Querying (emulator-5562) T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Querying (emulator-5562) A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Querying (emulator-5562) r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Querying (emulator-5562) xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Querying (emulator-5562) lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Querying (emulator-5562) er1JRwCHi7NPqQFqTvdgRVWt318lGYe3
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Querying (emulator-5562) FYZPEujzApq98XxQr4N4HcAnEmDrXaI0
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Querying (emulator-5562) GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Querying (emulator-5562) DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Querying (emulator-5562) Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Querying (emulator-5562) iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Querying (emulator-5562) 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Querying (emulator-5562) KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Querying (emulator-5562) 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Querying (emulator-5562) VaWrX47q1kLVafVuCCAUaMQG6VuUphx7
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying (emulator-5562) NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB
+Querying from emulator-5556
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Querying (emulator-5556) OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Querying (emulator-5556) 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Querying (emulator-5556) Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Querying (emulator-5556) tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Querying (emulator-5556) fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Querying (emulator-5556) ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Querying (emulator-5556) MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Querying (emulator-5556) IwZe61aBgKxtdscggFeFtw6Mz69y6c5j
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Querying (emulator-5556) SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Querying (emulator-5556) T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Querying (emulator-5556) A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Querying (emulator-5556) r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Querying (emulator-5556) xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Querying (emulator-5556) lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Querying (emulator-5556) er1JRwCHi7NPqQFqTvdgRVWt318lGYe3
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Querying (emulator-5556) FYZPEujzApq98XxQr4N4HcAnEmDrXaI0
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Querying (emulator-5556) GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Querying (emulator-5556) DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Querying (emulator-5556) Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Querying (emulator-5556) iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Querying (emulator-5556) 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Querying (emulator-5556) KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Querying (emulator-5556) 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Querying (emulator-5556) VaWrX47q1kLVafVuCCAUaMQG6VuUphx7
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying (emulator-5556) NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB
+Querying * from emulator-5554
+Querying (emulator-5554) "*"
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying * from emulator-5558
+Querying (emulator-5558) "*"
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying * from emulator-5560
+Querying (emulator-5560) "*"
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying * from emulator-5562
+Querying (emulator-5562) "*"
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Querying * from emulator-5556
+Querying (emulator-5556) "*"
+Testing OgrPfOxQ9UNazZQKqMntRNEIFJjkeWVt T4Niq00SwXcnRINgT4LcHoXXd3UsGMri
+Testing 71XEyRs5QxmVpcD0CL0PQ0ZNpEzN91XM sgEw9H5I8LfZWnz5fiqJpGqGLCa3O0Le
+Testing Z4SkViRKLvTeTl1ng8VlJiX6sPFbfQFN eW5Nm19c3hjHH83dfvHQgJLqc47ahlej
+Testing tLUVKuPNVbMk11k3xtYzNCxSOSPaFS9i CcgiMcmupc1A630PYv9x4GryKViysOzQ
+Testing fK3SXOLnmBfCxjWAL2pZrTMhxyPKTbIt KXm40Sl2CtSQRKGv5wOQ5fyJAWtHhqCC
+Testing ZeoktMFPYz6TSNJJyWy3331Bt99ZSUKH 2sBGToDSqTE7PK3TILsLkTMc7PzIH6oe
+Testing MTcPtDrSCPb9E5LPiCbeRh1oHG15jNQP BRBluW8s59sgUHMfmdWxOSJX7qQ53mU0
+Testing IwZe61aBgKxtdscggFeFtw6Mz69y6c5j qFHOw74UWNiCbKwKqZnOOo4N2JZJbjeu
+Testing SVUFex1FwsZMyF1SpYP64eCQFNBmJaUL GWD5Xbz8N5IY8urwLJNGZsO89Unxsm2L
+Testing T3LqmoBxcJjwulnf9RQiiWNBOWBFrlms ZoTDsu43qzXnNVNjq9S8wgJlJE91y605
+Testing A7vq6UxhsS88PTuTPfVLB0Ko6774Fg8u i4w2q4yoRjelxMjPYE1tDSbvGXVGOPqC
+Testing r0XWtWz1PtwG3TYK8qSBk2QgEEseA9pW 0qLE8kY8p2TadVFm48LBqt2bGR97xDzK
+Testing xSdiwVrz9u2KbmqWrc7OX7cDzbTkWYBZ H9rNLPYNbgvUKnSVbKFRPdXEIKr6ts0Y
+Testing lp9ZzzdM1q2BpDvtFadIOeX2bcZHmsOL 9RK8Vlf20AoESRgtedhCOv83G5GHTrX5
+Testing er1JRwCHi7NPqQFqTvdgRVWt318lGYe3 EgF5GAMfk8ejVjXR25ikhBvEsA7sSSUo
+Testing FYZPEujzApq98XxQr4N4HcAnEmDrXaI0 3kj829fFQsJh76ARiLTT3JfVPPwCElPd
+Testing GICOCT3OJpnKFliXIf3g5LPkwzAPqPVG 1HLrW6afIzhUVa3Fzv1F2WvgW6XZZn8o
+Testing DhOOf7pRf3cKnra2Z9NbZkG2uxwMdjsl s1Ya6W8QCybvWf4XjjdgbsgejiG4WSRO
+Testing Ym3KWOIdEpWnm2ekIryV056hDJ3WUmsm WMmDLi4nRt3130wVpRuDUIayFrPtQ7Sw
+Testing iVz0Tps0FK8BHSoCuyAYXHOp3pN6WeqD 98OBA6mUlutSzuijIulpfZ0g1vAvSR94
+Testing 12qO8Ae4uneIe20uNr2N7cdSEYiIEJaE u8rS7SHw9hyA0L2OtXhlKRxCDSX0rdxK
+Testing KmIiyKbs2wxNDw1eJY3qXkqgTAD7ni5W C2wf9zNBHHVuklmfEDKWOXoZakU4t2bL
+Testing 8fpUuU6N9aBZd4P5HGQr9PqWnnxH5qk2 4awfuxO641trypz8yoZrBAxuRNlCsQeu
+Testing VaWrX47q1kLVafVuCCAUaMQG6VuUphx7 o9zGvBrGTJiPloyCS2Ib6xik091qwuT6
+Testing NdUbwsFiQc94Kv7TOKvhfJ4YulPJ6UFB PeL4cjOjezFfI4Q2tWqSyfl4ErSvazKo
+Total score so far: 5
+
+Testing insert with 4 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 28.3 MB/s (99828 bytes in 0.003s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 18.1 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 19.7 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 20.7 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5558
+Starting on emulator-5556
+Starting on emulator-5560
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) LJaNXXZ6SaffWXvMfQGqEwxu7NwjcGdy RLEg3fEpz9Rzn19Bj94F7TwRpnlhypEC
+Inserting (emulator-5554) U1McZWS9Zz7GVLibUXmtO5i70ldjNR8h bqSDHlWW7KakjOE35i6YRzSowRhPtgCe
+Inserting (emulator-5554) KPygj5psmOB2Mh5Tz08tQzz8RU7BUY0x qhWRg4gFBLc33UosjpBOL0QWgUzxOs2s
+Inserting (emulator-5554) dIwEupdn9F6Jlruuu0uk0jXgFcb0Zk6k ktEm6Y4jtmO75X33sZy8Kf9xCQv8qk7E
+Inserting (emulator-5554) Oo5xzoC6RRhBAZFTWPsEBt6VShYG5JKK TDZkqmYMsggM5c76Zuhich9MggtJ2Bfs
+Inserting from emulator-5558
+Inserting (emulator-5558) 40u3CzyYmDzu8gTvIFSObCajxlb2CdI4 naIsafISFLasuRJ4tkuYYymEQ5FasBXK
+Inserting (emulator-5558) mB8uBOVKkkVLCP64SmeUygwZVHt51ZAa yzwQ5hhZPiboaCzaMbEg74DzYnjRUWCu
+Inserting (emulator-5558) UjJj8W6470xLtcmaylgrvoD9usKcCgGH aPa84VXsRi2ncbdE7MP2OhfahLbMBhMf
+Inserting (emulator-5558) O4tsAmNxNgxeRrbJ4gq8e3eoaUWOUlLC D2qwBu12CiEjjNpVjuRlZD5VdKLw7GPv
+Inserting (emulator-5558) ucC58VJmIYTBn8u3xhUCzJuovhJIU8ms BLxI16YUDHJNYO0Tpag5y18Za61yPAGB
+Inserting from emulator-5556
+Inserting (emulator-5556) qgjsTzdSHCDTczuno0SJz1fw2IMtXrrx YDlnKGb5qkKbeYBnemiXsoGohLTP6SkR
+Inserting (emulator-5556) sQAAO44fZILO2OeMvfmtkS1nxzRpKmxA r0pHVmV2obEZON4NOz4Ayw9pHC3ZheqF
+Inserting (emulator-5556) 4O5tcj9iwLWzPpVDFvh0u49cjpspqMLK uJuyibo6CE79PKHLOlnPYa5QSpjOR869
+Inserting (emulator-5556) 3JBofkm7zfM37CmBrrRewErfLRirk8ug hADO08kva2Tbi9QRKVXXBzAG2X9czV6t
+Inserting (emulator-5556) LtV0Foytw6rSkga0sNaLHNuvTRIqPV3Y uW9oqevIaw0xJMQTGQ1uCNDS0p4DXFkQ
+Inserting from emulator-5560
+Inserting (emulator-5560) D7o5nNNfwqUcWkKx5aM3Ju8g0EGfobNA XqnFE4Sf3YNi931zePQnF3M7FYmkASff
+Inserting (emulator-5560) yXMoiWvPsfdsPO1l1qtCAYnDuHDaQU3P bZ3BXP0w50YbLyMmcTYRp6qgdxPcqUIO
+Inserting (emulator-5560) viNHpKwrHv2YYokeuZY8hgQljLoRuzld Xrn1G0zIFjmJHqVtLzZ7IHXaAbIOkWam
+Inserting (emulator-5560) VEgAzxmSKbaeNBUuqhteTFm59VKmE1oP BxV59qyf3buuwyUAMB9hU1QH9lMpPeup
+Inserting (emulator-5560) EAZ92YprvRmHRRXrfGY8S7jSefQ5Vn6n ZCqrSSxrmuCuH7xwFZZINNIGsbalo0c0
+Waiting for 5 seconds for insert operations to complete
+Dumping from emulator-5554
+Querying (emulator-5554) "@"
+UjJj8W6470xLtcmaylgrvoD9usKcCgGH aPa84VXsRi2ncbdE7MP2OhfahLbMBhMf
+Oo5xzoC6RRhBAZFTWPsEBt6VShYG5JKK TDZkqmYMsggM5c76Zuhich9MggtJ2Bfs
+Dumping from emulator-5558
+Querying (emulator-5558) "@"
+qgjsTzdSHCDTczuno0SJz1fw2IMtXrrx YDlnKGb5qkKbeYBnemiXsoGohLTP6SkR
+mB8uBOVKkkVLCP64SmeUygwZVHt51ZAa yzwQ5hhZPiboaCzaMbEg74DzYnjRUWCu
+sQAAO44fZILO2OeMvfmtkS1nxzRpKmxA r0pHVmV2obEZON4NOz4Ayw9pHC3ZheqF
+U1McZWS9Zz7GVLibUXmtO5i70ldjNR8h bqSDHlWW7KakjOE35i6YRzSowRhPtgCe
+LtV0Foytw6rSkga0sNaLHNuvTRIqPV3Y uW9oqevIaw0xJMQTGQ1uCNDS0p4DXFkQ
+4O5tcj9iwLWzPpVDFvh0u49cjpspqMLK uJuyibo6CE79PKHLOlnPYa5QSpjOR869
+O4tsAmNxNgxeRrbJ4gq8e3eoaUWOUlLC D2qwBu12CiEjjNpVjuRlZD5VdKLw7GPv
+Dumping from emulator-5556
+Querying (emulator-5556) "@"
+yXMoiWvPsfdsPO1l1qtCAYnDuHDaQU3P bZ3BXP0w50YbLyMmcTYRp6qgdxPcqUIO
+KPygj5psmOB2Mh5Tz08tQzz8RU7BUY0x qhWRg4gFBLc33UosjpBOL0QWgUzxOs2s
+viNHpKwrHv2YYokeuZY8hgQljLoRuzld Xrn1G0zIFjmJHqVtLzZ7IHXaAbIOkWam
+dIwEupdn9F6Jlruuu0uk0jXgFcb0Zk6k ktEm6Y4jtmO75X33sZy8Kf9xCQv8qk7E
+40u3CzyYmDzu8gTvIFSObCajxlb2CdI4 naIsafISFLasuRJ4tkuYYymEQ5FasBXK
+VEgAzxmSKbaeNBUuqhteTFm59VKmE1oP BxV59qyf3buuwyUAMB9hU1QH9lMpPeup
+EAZ92YprvRmHRRXrfGY8S7jSefQ5Vn6n ZCqrSSxrmuCuH7xwFZZINNIGsbalo0c0
+Dumping from emulator-5560
+Querying (emulator-5560) "@"
+LJaNXXZ6SaffWXvMfQGqEwxu7NwjcGdy RLEg3fEpz9Rzn19Bj94F7TwRpnlhypEC
+D7o5nNNfwqUcWkKx5aM3Ju8g0EGfobNA XqnFE4Sf3YNi931zePQnF3M7FYmkASff
+ucC58VJmIYTBn8u3xhUCzJuovhJIU8ms BLxI16YUDHJNYO0Tpag5y18Za61yPAGB
+3JBofkm7zfM37CmBrrRewErfLRirk8ug hADO08kva2Tbi9QRKVXXBzAG2X9czV6t
+Testing  LJaNXXZ6SaffWXvMfQGqEwxu7NwjcGdy RLEg3fEpz9Rzn19Bj94F7TwRpnlhypEC
+Testing  qgjsTzdSHCDTczuno0SJz1fw2IMtXrrx YDlnKGb5qkKbeYBnemiXsoGohLTP6SkR
+Testing  KPygj5psmOB2Mh5Tz08tQzz8RU7BUY0x qhWRg4gFBLc33UosjpBOL0QWgUzxOs2s
+Testing  sQAAO44fZILO2OeMvfmtkS1nxzRpKmxA r0pHVmV2obEZON4NOz4Ayw9pHC3ZheqF
+Testing  viNHpKwrHv2YYokeuZY8hgQljLoRuzld Xrn1G0zIFjmJHqVtLzZ7IHXaAbIOkWam
+Testing  UjJj8W6470xLtcmaylgrvoD9usKcCgGH aPa84VXsRi2ncbdE7MP2OhfahLbMBhMf
+Testing  yXMoiWvPsfdsPO1l1qtCAYnDuHDaQU3P bZ3BXP0w50YbLyMmcTYRp6qgdxPcqUIO
+Testing  U1McZWS9Zz7GVLibUXmtO5i70ldjNR8h bqSDHlWW7KakjOE35i6YRzSowRhPtgCe
+Testing  mB8uBOVKkkVLCP64SmeUygwZVHt51ZAa yzwQ5hhZPiboaCzaMbEg74DzYnjRUWCu
+Testing  LtV0Foytw6rSkga0sNaLHNuvTRIqPV3Y uW9oqevIaw0xJMQTGQ1uCNDS0p4DXFkQ
+Testing  Oo5xzoC6RRhBAZFTWPsEBt6VShYG5JKK TDZkqmYMsggM5c76Zuhich9MggtJ2Bfs
+Testing  4O5tcj9iwLWzPpVDFvh0u49cjpspqMLK uJuyibo6CE79PKHLOlnPYa5QSpjOR869
+Testing  dIwEupdn9F6Jlruuu0uk0jXgFcb0Zk6k ktEm6Y4jtmO75X33sZy8Kf9xCQv8qk7E
+Testing  ucC58VJmIYTBn8u3xhUCzJuovhJIU8ms BLxI16YUDHJNYO0Tpag5y18Za61yPAGB
+Testing  D7o5nNNfwqUcWkKx5aM3Ju8g0EGfobNA XqnFE4Sf3YNi931zePQnF3M7FYmkASff
+Testing  40u3CzyYmDzu8gTvIFSObCajxlb2CdI4 naIsafISFLasuRJ4tkuYYymEQ5FasBXK
+Testing  VEgAzxmSKbaeNBUuqhteTFm59VKmE1oP BxV59qyf3buuwyUAMB9hU1QH9lMpPeup
+Testing  EAZ92YprvRmHRRXrfGY8S7jSefQ5Vn6n ZCqrSSxrmuCuH7xwFZZINNIGsbalo0c0
+Testing  O4tsAmNxNgxeRrbJ4gq8e3eoaUWOUlLC D2qwBu12CiEjjNpVjuRlZD5VdKLw7GPv
+Testing  3JBofkm7zfM37CmBrrRewErfLRirk8ug hADO08kva2Tbi9QRKVXXBzAG2X9czV6t
+Verifying emulator-5554
+Querying (emulator-5554) "@"
+Testing  UjJj8W6470xLtcmaylgrvoD9usKcCgGH aPa84VXsRi2ncbdE7MP2OhfahLbMBhMf
+Testing  Oo5xzoC6RRhBAZFTWPsEBt6VShYG5JKK TDZkqmYMsggM5c76Zuhich9MggtJ2Bfs
+Verifying emulator-5558
+Querying (emulator-5558) "@"
+Testing  qgjsTzdSHCDTczuno0SJz1fw2IMtXrrx YDlnKGb5qkKbeYBnemiXsoGohLTP6SkR
+Testing  mB8uBOVKkkVLCP64SmeUygwZVHt51ZAa yzwQ5hhZPiboaCzaMbEg74DzYnjRUWCu
+Testing  sQAAO44fZILO2OeMvfmtkS1nxzRpKmxA r0pHVmV2obEZON4NOz4Ayw9pHC3ZheqF
+Testing  U1McZWS9Zz7GVLibUXmtO5i70ldjNR8h bqSDHlWW7KakjOE35i6YRzSowRhPtgCe
+Testing  LtV0Foytw6rSkga0sNaLHNuvTRIqPV3Y uW9oqevIaw0xJMQTGQ1uCNDS0p4DXFkQ
+Testing  4O5tcj9iwLWzPpVDFvh0u49cjpspqMLK uJuyibo6CE79PKHLOlnPYa5QSpjOR869
+Testing  O4tsAmNxNgxeRrbJ4gq8e3eoaUWOUlLC D2qwBu12CiEjjNpVjuRlZD5VdKLw7GPv
+Verifying emulator-5556
+Querying (emulator-5556) "@"
+Testing  yXMoiWvPsfdsPO1l1qtCAYnDuHDaQU3P bZ3BXP0w50YbLyMmcTYRp6qgdxPcqUIO
+Testing  KPygj5psmOB2Mh5Tz08tQzz8RU7BUY0x qhWRg4gFBLc33UosjpBOL0QWgUzxOs2s
+Testing  viNHpKwrHv2YYokeuZY8hgQljLoRuzld Xrn1G0zIFjmJHqVtLzZ7IHXaAbIOkWam
+Testing  dIwEupdn9F6Jlruuu0uk0jXgFcb0Zk6k ktEm6Y4jtmO75X33sZy8Kf9xCQv8qk7E
+Testing  40u3CzyYmDzu8gTvIFSObCajxlb2CdI4 naIsafISFLasuRJ4tkuYYymEQ5FasBXK
+Testing  VEgAzxmSKbaeNBUuqhteTFm59VKmE1oP BxV59qyf3buuwyUAMB9hU1QH9lMpPeup
+Testing  EAZ92YprvRmHRRXrfGY8S7jSefQ5Vn6n ZCqrSSxrmuCuH7xwFZZINNIGsbalo0c0
+Verifying emulator-5560
+Querying (emulator-5560) "@"
+Testing  LJaNXXZ6SaffWXvMfQGqEwxu7NwjcGdy RLEg3fEpz9Rzn19Bj94F7TwRpnlhypEC
+Testing  D7o5nNNfwqUcWkKx5aM3Ju8g0EGfobNA XqnFE4Sf3YNi931zePQnF3M7FYmkASff
+Testing  ucC58VJmIYTBn8u3xhUCzJuovhJIU8ms BLxI16YUDHJNYO0Tpag5y18Za61yPAGB
+Testing  3JBofkm7zfM37CmBrrRewErfLRirk8ug hADO08kva2Tbi9QRKVXXBzAG2X9czV6t
+
+Testing insert with 1 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 30.2 MB/s (99828 bytes in 0.003s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) 1sTkIEKqxQNXxA4nwIZ81V5BTGMN9esV uSCYM8lGeBUCf43Pvz4Km4eHWX2LooXc
+Inserting (emulator-5554) vDLWYUroZfLdrR5qvccJYRZt46tp8ocd lPSNMxT94nWK1oCid5Gdd6kNfm22KdZU
+Inserting (emulator-5554) p1fhf9yMAjkcUy7WqZ4DjX6NOmMruIeU UdylNhUJWBaiweKn2QJWHOysi8aARZcq
+Inserting (emulator-5554) CJ0xMpkACkIOHqpSGAEj6E0EfKqvZPOd 4PespggKfQwx1OEFoAgnoUPKE9mJ3GPu
+Inserting (emulator-5554) J53zP9zWv2U5oKuBbqd2weLVDxDYqJkJ tdVhrWwKZcFrgpMObJkQ2ngbc2SISsSo
+Waiting for 5 seconds for insert operations to complete
+Dumping from emulator-5554
+Querying (emulator-5554) "@"
+1sTkIEKqxQNXxA4nwIZ81V5BTGMN9esV uSCYM8lGeBUCf43Pvz4Km4eHWX2LooXc
+vDLWYUroZfLdrR5qvccJYRZt46tp8ocd lPSNMxT94nWK1oCid5Gdd6kNfm22KdZU
+p1fhf9yMAjkcUy7WqZ4DjX6NOmMruIeU UdylNhUJWBaiweKn2QJWHOysi8aARZcq
+CJ0xMpkACkIOHqpSGAEj6E0EfKqvZPOd 4PespggKfQwx1OEFoAgnoUPKE9mJ3GPu
+J53zP9zWv2U5oKuBbqd2weLVDxDYqJkJ tdVhrWwKZcFrgpMObJkQ2ngbc2SISsSo
+Testing  1sTkIEKqxQNXxA4nwIZ81V5BTGMN9esV uSCYM8lGeBUCf43Pvz4Km4eHWX2LooXc
+Testing  vDLWYUroZfLdrR5qvccJYRZt46tp8ocd lPSNMxT94nWK1oCid5Gdd6kNfm22KdZU
+Testing  p1fhf9yMAjkcUy7WqZ4DjX6NOmMruIeU UdylNhUJWBaiweKn2QJWHOysi8aARZcq
+Testing  CJ0xMpkACkIOHqpSGAEj6E0EfKqvZPOd 4PespggKfQwx1OEFoAgnoUPKE9mJ3GPu
+Testing  J53zP9zWv2U5oKuBbqd2weLVDxDYqJkJ tdVhrWwKZcFrgpMObJkQ2ngbc2SISsSo
+Verifying emulator-5554
+Querying (emulator-5554) "@"
+Testing  1sTkIEKqxQNXxA4nwIZ81V5BTGMN9esV uSCYM8lGeBUCf43Pvz4Km4eHWX2LooXc
+Testing  vDLWYUroZfLdrR5qvccJYRZt46tp8ocd lPSNMxT94nWK1oCid5Gdd6kNfm22KdZU
+Testing  p1fhf9yMAjkcUy7WqZ4DjX6NOmMruIeU UdylNhUJWBaiweKn2QJWHOysi8aARZcq
+Testing  CJ0xMpkACkIOHqpSGAEj6E0EfKqvZPOd 4PespggKfQwx1OEFoAgnoUPKE9mJ3GPu
+Testing  J53zP9zWv2U5oKuBbqd2weLVDxDYqJkJ tdVhrWwKZcFrgpMObJkQ2ngbc2SISsSo
+
+Testing insert with 2 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 22.2 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 29.0 MB/s (99828 bytes in 0.003s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) diiHqp22k9BxYqE7z3c6czaIUjahSVUi iIlQJ0eIdEUTABUqGpBuZnve2somyzNt
+Inserting (emulator-5554) WE3Jl6ynWTgVdBzzewjnFhPGQymNabE2 fcYqnv3J7pW8tLG1MBTTJUqWlsD2F5DN
+Inserting (emulator-5554) V50wwNQPEuJwaPTH1sBk5lNgcR2yJjAS tYMZFz4w3WOnii3vmQnbfzzF8LYKgpmc
+Inserting (emulator-5554) 1QZ2ycr7xi5780Gniky7mDdTgevIJIsa rxsM3HwlKcswv6dys49fVaxKZVkD0ogU
+Inserting (emulator-5554) Fw34ZWSBDg1BmrguwY459tqXtKVk6Gc4 0SjgYYzgRPGc7zXuWkWSh82B4fsunBxs
+Inserting from emulator-5556
+Inserting (emulator-5556) F4PcJCNwA5L2PBttwsia0YC5Xt4ruqyY 7uTI0VYWsJn3wrUNzPIGGuDu9vSsURrO
+Inserting (emulator-5556) D4malJdBCdGu6NTzng1W9BB4e30Jhxhk rNu38mWCTtGo2XwyZcGhvRm8BKT1mGR1
+Inserting (emulator-5556) UK7UKQu8MGIq2oDUchxpgSsjae7dVPSM urWTsNFAgbLlMAPFmQXZDghpdhuBU71N
+Inserting (emulator-5556) 4IFCr8HjRqtQYVODEBjeDfA0Ys7Cn9eY ImP6LYHqPGqZb0csWr2OnbylaldowVOV
+Inserting (emulator-5556) Yb6TagT37hlF9wimRqBPmM9jS5ninBjA SW6M0B0SJJDUbcX2a8hImfhppuHU0upk
+Waiting for 5 seconds for insert operations to complete
+Dumping from emulator-5554
+Querying (emulator-5554) "@"
+WE3Jl6ynWTgVdBzzewjnFhPGQymNabE2 fcYqnv3J7pW8tLG1MBTTJUqWlsD2F5DN
+Dumping from emulator-5556
+Querying (emulator-5556) "@"
+1QZ2ycr7xi5780Gniky7mDdTgevIJIsa rxsM3HwlKcswv6dys49fVaxKZVkD0ogU
+V50wwNQPEuJwaPTH1sBk5lNgcR2yJjAS tYMZFz4w3WOnii3vmQnbfzzF8LYKgpmc
+UK7UKQu8MGIq2oDUchxpgSsjae7dVPSM urWTsNFAgbLlMAPFmQXZDghpdhuBU71N
+Yb6TagT37hlF9wimRqBPmM9jS5ninBjA SW6M0B0SJJDUbcX2a8hImfhppuHU0upk
+D4malJdBCdGu6NTzng1W9BB4e30Jhxhk rNu38mWCTtGo2XwyZcGhvRm8BKT1mGR1
+Fw34ZWSBDg1BmrguwY459tqXtKVk6Gc4 0SjgYYzgRPGc7zXuWkWSh82B4fsunBxs
+F4PcJCNwA5L2PBttwsia0YC5Xt4ruqyY 7uTI0VYWsJn3wrUNzPIGGuDu9vSsURrO
+diiHqp22k9BxYqE7z3c6czaIUjahSVUi iIlQJ0eIdEUTABUqGpBuZnve2somyzNt
+4IFCr8HjRqtQYVODEBjeDfA0Ys7Cn9eY ImP6LYHqPGqZb0csWr2OnbylaldowVOV
+Testing  1QZ2ycr7xi5780Gniky7mDdTgevIJIsa rxsM3HwlKcswv6dys49fVaxKZVkD0ogU
+Testing  V50wwNQPEuJwaPTH1sBk5lNgcR2yJjAS tYMZFz4w3WOnii3vmQnbfzzF8LYKgpmc
+Testing  UK7UKQu8MGIq2oDUchxpgSsjae7dVPSM urWTsNFAgbLlMAPFmQXZDghpdhuBU71N
+Testing  Yb6TagT37hlF9wimRqBPmM9jS5ninBjA SW6M0B0SJJDUbcX2a8hImfhppuHU0upk
+Testing  WE3Jl6ynWTgVdBzzewjnFhPGQymNabE2 fcYqnv3J7pW8tLG1MBTTJUqWlsD2F5DN
+Testing  D4malJdBCdGu6NTzng1W9BB4e30Jhxhk rNu38mWCTtGo2XwyZcGhvRm8BKT1mGR1
+Testing  Fw34ZWSBDg1BmrguwY459tqXtKVk6Gc4 0SjgYYzgRPGc7zXuWkWSh82B4fsunBxs
+Testing  F4PcJCNwA5L2PBttwsia0YC5Xt4ruqyY 7uTI0VYWsJn3wrUNzPIGGuDu9vSsURrO
+Testing  diiHqp22k9BxYqE7z3c6czaIUjahSVUi iIlQJ0eIdEUTABUqGpBuZnve2somyzNt
+Testing  4IFCr8HjRqtQYVODEBjeDfA0Ys7Cn9eY ImP6LYHqPGqZb0csWr2OnbylaldowVOV
+Verifying emulator-5554
+Querying (emulator-5554) "@"
+Testing  WE3Jl6ynWTgVdBzzewjnFhPGQymNabE2 fcYqnv3J7pW8tLG1MBTTJUqWlsD2F5DN
+Verifying emulator-5556
+Querying (emulator-5556) "@"
+Testing  1QZ2ycr7xi5780Gniky7mDdTgevIJIsa rxsM3HwlKcswv6dys49fVaxKZVkD0ogU
+Testing  V50wwNQPEuJwaPTH1sBk5lNgcR2yJjAS tYMZFz4w3WOnii3vmQnbfzzF8LYKgpmc
+Testing  UK7UKQu8MGIq2oDUchxpgSsjae7dVPSM urWTsNFAgbLlMAPFmQXZDghpdhuBU71N
+Testing  Yb6TagT37hlF9wimRqBPmM9jS5ninBjA SW6M0B0SJJDUbcX2a8hImfhppuHU0upk
+Testing  D4malJdBCdGu6NTzng1W9BB4e30Jhxhk rNu38mWCTtGo2XwyZcGhvRm8BKT1mGR1
+Testing  Fw34ZWSBDg1BmrguwY459tqXtKVk6Gc4 0SjgYYzgRPGc7zXuWkWSh82B4fsunBxs
+Testing  F4PcJCNwA5L2PBttwsia0YC5Xt4ruqyY 7uTI0VYWsJn3wrUNzPIGGuDu9vSsURrO
+Testing  diiHqp22k9BxYqE7z3c6czaIUjahSVUi iIlQJ0eIdEUTABUqGpBuZnve2somyzNt
+Testing  4IFCr8HjRqtQYVODEBjeDfA0Ys7Cn9eY ImP6LYHqPGqZb0csWr2OnbylaldowVOV
+
+Testing insert with 3 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 22.3 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 24.4 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 23.9 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5558
+Starting on emulator-5556
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) XSpxAShznvOxKjWNpWP6eRU6aMv3Fbjy j46fbKecq2f3C8gW965TYDAOHVeyjWKb
+Inserting (emulator-5554) 5G3zlnYnIDfmTs53SzlXgJCywyi7Zon7 gSMHFtSSxzVV4wcda0FB8FeriEEBB1Ik
+Inserting (emulator-5554) vLdpd0jt9vwVew8GFJpMpLWB89ugctpt WzDmvdr1OZcWOk34zys22V0IPMcUDFyq
+Inserting (emulator-5554) Nh0zz9Rxg5mWDMMpjkbYcE1bzX6g687t 1cX8pIqeRvZAnAAmRf068O5QrFNO8S5M
+Inserting (emulator-5554) MyXKyPilgahIHluqlD41goE4o0j3yhge DVyJGcoROGQcInEi4n8AwkdW9uHEOE4f
+Inserting from emulator-5558
+Inserting (emulator-5558) qhHljGjHT2Yscq1KbjAGQDrCWEU7111m j3K7XKYzo3BAxwidVSzSXgiAmR5bxRf0
+Inserting (emulator-5558) XECnbxo6UeoJVUtgsnG9dcwvPChb2FA3 qSkLwyWguiW3TFW1RRDbMkplVbnZCCfb
+Inserting (emulator-5558) im5Zj173dYDw6pmNP4DEd4mNpoGC4N1a 9JFDYlqosWE64wrMxxQckQ6r9PcueMNF
+Inserting (emulator-5558) ep9bIHUD9OLwl8YsIJrrMbTFJXgrc8T3 SHUCwMCWSYaElYLBD9iK4CD0Kpyyk3la
+Inserting (emulator-5558) cHTdsqk4ID4i4coJu9IMaixssuMmcAcy MtzuTK0LxZkNEVAQKxof2lr71MWLFwaV
+Inserting from emulator-5556
+Inserting (emulator-5556) 4YvGvMpr32ElWm1ipZik3pMDHZvSFXIW qXiUpQQm6uotBYf5IdMP2Xj4yt4GsQNG
+Inserting (emulator-5556) suXqWyH2O8WE6QW5cGqMHBMIElqGdcIJ bESv3LGUG5xSn58KsjXJObRhRhs8cBs9
+Inserting (emulator-5556) g6qQn9rflbGKeAHmVUc3KKvtH0lXJeMn vcLuRuCBAYIxlKlzylGE3d0As3Thgfp1
+Inserting (emulator-5556) gtpLkn64JH0vij5o42DH4XVPeLnTHd7G 2vusiBlKDI7DYsRQXKUJMAfEOiyann80
+Inserting (emulator-5556) 97Uywh4qlKC5IM0P1SuDddfrgDfmfr1v HDwoY8fxwAsJvfPgNhN3qMmWUnOrLFLr
+Waiting for 5 seconds for insert operations to complete
+Dumping from emulator-5554
+Querying (emulator-5554) "@"
+Dumping from emulator-5558
+Querying (emulator-5558) "@"
+gtpLkn64JH0vij5o42DH4XVPeLnTHd7G 2vusiBlKDI7DYsRQXKUJMAfEOiyann80
+5G3zlnYnIDfmTs53SzlXgJCywyi7Zon7 gSMHFtSSxzVV4wcda0FB8FeriEEBB1Ik
+97Uywh4qlKC5IM0P1SuDddfrgDfmfr1v HDwoY8fxwAsJvfPgNhN3qMmWUnOrLFLr
+4YvGvMpr32ElWm1ipZik3pMDHZvSFXIW qXiUpQQm6uotBYf5IdMP2Xj4yt4GsQNG
+vLdpd0jt9vwVew8GFJpMpLWB89ugctpt WzDmvdr1OZcWOk34zys22V0IPMcUDFyq
+Nh0zz9Rxg5mWDMMpjkbYcE1bzX6g687t 1cX8pIqeRvZAnAAmRf068O5QrFNO8S5M
+cHTdsqk4ID4i4coJu9IMaixssuMmcAcy MtzuTK0LxZkNEVAQKxof2lr71MWLFwaV
+g6qQn9rflbGKeAHmVUc3KKvtH0lXJeMn vcLuRuCBAYIxlKlzylGE3d0As3Thgfp1
+suXqWyH2O8WE6QW5cGqMHBMIElqGdcIJ bESv3LGUG5xSn58KsjXJObRhRhs8cBs9
+Dumping from emulator-5556
+Querying (emulator-5556) "@"
+qhHljGjHT2Yscq1KbjAGQDrCWEU7111m j3K7XKYzo3BAxwidVSzSXgiAmR5bxRf0
+im5Zj173dYDw6pmNP4DEd4mNpoGC4N1a 9JFDYlqosWE64wrMxxQckQ6r9PcueMNF
+ep9bIHUD9OLwl8YsIJrrMbTFJXgrc8T3 SHUCwMCWSYaElYLBD9iK4CD0Kpyyk3la
+XECnbxo6UeoJVUtgsnG9dcwvPChb2FA3 qSkLwyWguiW3TFW1RRDbMkplVbnZCCfb
+XSpxAShznvOxKjWNpWP6eRU6aMv3Fbjy j46fbKecq2f3C8gW965TYDAOHVeyjWKb
+MyXKyPilgahIHluqlD41goE4o0j3yhge DVyJGcoROGQcInEi4n8AwkdW9uHEOE4f
+Testing  qhHljGjHT2Yscq1KbjAGQDrCWEU7111m j3K7XKYzo3BAxwidVSzSXgiAmR5bxRf0
+Testing  im5Zj173dYDw6pmNP4DEd4mNpoGC4N1a 9JFDYlqosWE64wrMxxQckQ6r9PcueMNF
+Testing  ep9bIHUD9OLwl8YsIJrrMbTFJXgrc8T3 SHUCwMCWSYaElYLBD9iK4CD0Kpyyk3la
+Testing  gtpLkn64JH0vij5o42DH4XVPeLnTHd7G 2vusiBlKDI7DYsRQXKUJMAfEOiyann80
+Testing  5G3zlnYnIDfmTs53SzlXgJCywyi7Zon7 gSMHFtSSxzVV4wcda0FB8FeriEEBB1Ik
+Testing  97Uywh4qlKC5IM0P1SuDddfrgDfmfr1v HDwoY8fxwAsJvfPgNhN3qMmWUnOrLFLr
+Testing  XECnbxo6UeoJVUtgsnG9dcwvPChb2FA3 qSkLwyWguiW3TFW1RRDbMkplVbnZCCfb
+Testing  4YvGvMpr32ElWm1ipZik3pMDHZvSFXIW qXiUpQQm6uotBYf5IdMP2Xj4yt4GsQNG
+Testing  vLdpd0jt9vwVew8GFJpMpLWB89ugctpt WzDmvdr1OZcWOk34zys22V0IPMcUDFyq
+Testing  Nh0zz9Rxg5mWDMMpjkbYcE1bzX6g687t 1cX8pIqeRvZAnAAmRf068O5QrFNO8S5M
+Testing  cHTdsqk4ID4i4coJu9IMaixssuMmcAcy MtzuTK0LxZkNEVAQKxof2lr71MWLFwaV
+Testing  g6qQn9rflbGKeAHmVUc3KKvtH0lXJeMn vcLuRuCBAYIxlKlzylGE3d0As3Thgfp1
+Testing  XSpxAShznvOxKjWNpWP6eRU6aMv3Fbjy j46fbKecq2f3C8gW965TYDAOHVeyjWKb
+Testing  suXqWyH2O8WE6QW5cGqMHBMIElqGdcIJ bESv3LGUG5xSn58KsjXJObRhRhs8cBs9
+Testing  MyXKyPilgahIHluqlD41goE4o0j3yhge DVyJGcoROGQcInEi4n8AwkdW9uHEOE4f
+Verifying emulator-5554
+Querying (emulator-5554) "@"
+Verifying emulator-5558
+Querying (emulator-5558) "@"
+Testing  gtpLkn64JH0vij5o42DH4XVPeLnTHd7G 2vusiBlKDI7DYsRQXKUJMAfEOiyann80
+Testing  5G3zlnYnIDfmTs53SzlXgJCywyi7Zon7 gSMHFtSSxzVV4wcda0FB8FeriEEBB1Ik
+Testing  97Uywh4qlKC5IM0P1SuDddfrgDfmfr1v HDwoY8fxwAsJvfPgNhN3qMmWUnOrLFLr
+Testing  4YvGvMpr32ElWm1ipZik3pMDHZvSFXIW qXiUpQQm6uotBYf5IdMP2Xj4yt4GsQNG
+Testing  vLdpd0jt9vwVew8GFJpMpLWB89ugctpt WzDmvdr1OZcWOk34zys22V0IPMcUDFyq
+Testing  Nh0zz9Rxg5mWDMMpjkbYcE1bzX6g687t 1cX8pIqeRvZAnAAmRf068O5QrFNO8S5M
+Testing  cHTdsqk4ID4i4coJu9IMaixssuMmcAcy MtzuTK0LxZkNEVAQKxof2lr71MWLFwaV
+Testing  g6qQn9rflbGKeAHmVUc3KKvtH0lXJeMn vcLuRuCBAYIxlKlzylGE3d0As3Thgfp1
+Testing  suXqWyH2O8WE6QW5cGqMHBMIElqGdcIJ bESv3LGUG5xSn58KsjXJObRhRhs8cBs9
+Verifying emulator-5556
+Querying (emulator-5556) "@"
+Testing  qhHljGjHT2Yscq1KbjAGQDrCWEU7111m j3K7XKYzo3BAxwidVSzSXgiAmR5bxRf0
+Testing  im5Zj173dYDw6pmNP4DEd4mNpoGC4N1a 9JFDYlqosWE64wrMxxQckQ6r9PcueMNF
+Testing  ep9bIHUD9OLwl8YsIJrrMbTFJXgrc8T3 SHUCwMCWSYaElYLBD9iK4CD0Kpyyk3la
+Testing  XECnbxo6UeoJVUtgsnG9dcwvPChb2FA3 qSkLwyWguiW3TFW1RRDbMkplVbnZCCfb
+Testing  XSpxAShznvOxKjWNpWP6eRU6aMv3Fbjy j46fbKecq2f3C8gW965TYDAOHVeyjWKb
+Testing  MyXKyPilgahIHluqlD41goE4o0j3yhge DVyJGcoROGQcInEi4n8AwkdW9uHEOE4f
+Total score so far: 7
+
+Testing query with 4 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 14.8 MB/s (99828 bytes in 0.006s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 17.9 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 24.7 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 21.0 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5560
+Starting on emulator-5556
+Starting on emulator-5558
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Inserting (emulator-5554) wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Inserting (emulator-5554) d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Inserting (emulator-5554) 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Inserting (emulator-5554) JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+Inserting from emulator-5560
+Inserting (emulator-5560) Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Inserting (emulator-5560) KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Inserting (emulator-5560) xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Inserting (emulator-5560) cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Inserting (emulator-5560) W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Inserting from emulator-5556
+Inserting (emulator-5556) yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Inserting (emulator-5556) b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Inserting (emulator-5556) qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Inserting (emulator-5556) g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Inserting (emulator-5556) l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Inserting from emulator-5558
+Inserting (emulator-5558) THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Inserting (emulator-5558) R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Inserting (emulator-5558) szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Inserting (emulator-5558) zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Inserting (emulator-5558) 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Waiting for 5 seconds for insert operations to complete
+Querying from emulator-5554
+Testing 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Querying (emulator-5554) 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6
+Testing d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Querying (emulator-5554) d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE
+Testing cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Querying (emulator-5554) cz2tJTYpVVIqL6HDIQzcGBab38czscGz
+Testing g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Querying (emulator-5554) g6H09V8egKRLvUvbzAhiXN877QYyiXg1
+Testing yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Querying (emulator-5554) yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2
+Testing l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Querying (emulator-5554) l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v
+Testing zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Querying (emulator-5554) zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8
+Testing wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Querying (emulator-5554) wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti
+Testing qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Querying (emulator-5554) qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP
+Testing R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Querying (emulator-5554) R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H
+Testing Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Querying (emulator-5554) Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8
+Testing 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Querying (emulator-5554) 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W
+Testing KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Querying (emulator-5554) KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg
+Testing xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Querying (emulator-5554) xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC
+Testing W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Querying (emulator-5554) W2lhmxDvxtnbb6861DInUQLDkirHZyuI
+Testing THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Querying (emulator-5554) THsgxW47xfhJU5jePGrnjIWO7zA0GPmS
+Testing 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Querying (emulator-5554) 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd
+Testing szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Querying (emulator-5554) szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF
+Testing b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Querying (emulator-5554) b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1
+Testing JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+Querying (emulator-5554) JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8
+Querying from emulator-5560
+Testing 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Querying (emulator-5560) 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6
+Testing d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Querying (emulator-5560) d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE
+Testing cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Querying (emulator-5560) cz2tJTYpVVIqL6HDIQzcGBab38czscGz
+Testing g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Querying (emulator-5560) g6H09V8egKRLvUvbzAhiXN877QYyiXg1
+Testing yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Querying (emulator-5560) yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2
+Testing l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Querying (emulator-5560) l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v
+Testing zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Querying (emulator-5560) zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8
+Testing wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Querying (emulator-5560) wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti
+Testing qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Querying (emulator-5560) qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP
+Testing R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Querying (emulator-5560) R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H
+Testing Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Querying (emulator-5560) Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8
+Testing 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Querying (emulator-5560) 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W
+Testing KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Querying (emulator-5560) KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg
+Testing xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Querying (emulator-5560) xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC
+Testing W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Querying (emulator-5560) W2lhmxDvxtnbb6861DInUQLDkirHZyuI
+Testing THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Querying (emulator-5560) THsgxW47xfhJU5jePGrnjIWO7zA0GPmS
+Testing 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Querying (emulator-5560) 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd
+Testing szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Querying (emulator-5560) szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF
+Testing b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Querying (emulator-5560) b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1
+Testing JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+Querying (emulator-5560) JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8
+Querying from emulator-5556
+Testing 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Querying (emulator-5556) 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6
+Testing d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Querying (emulator-5556) d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE
+Testing cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Querying (emulator-5556) cz2tJTYpVVIqL6HDIQzcGBab38czscGz
+Testing g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Querying (emulator-5556) g6H09V8egKRLvUvbzAhiXN877QYyiXg1
+Testing yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Querying (emulator-5556) yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2
+Testing l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Querying (emulator-5556) l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v
+Testing zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Querying (emulator-5556) zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8
+Testing wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Querying (emulator-5556) wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti
+Testing qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Querying (emulator-5556) qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP
+Testing R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Querying (emulator-5556) R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H
+Testing Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Querying (emulator-5556) Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8
+Testing 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Querying (emulator-5556) 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W
+Testing KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Querying (emulator-5556) KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg
+Testing xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Querying (emulator-5556) xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC
+Testing W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Querying (emulator-5556) W2lhmxDvxtnbb6861DInUQLDkirHZyuI
+Testing THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Querying (emulator-5556) THsgxW47xfhJU5jePGrnjIWO7zA0GPmS
+Testing 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Querying (emulator-5556) 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd
+Testing szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Querying (emulator-5556) szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF
+Testing b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Querying (emulator-5556) b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1
+Testing JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+Querying (emulator-5556) JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8
+Querying from emulator-5558
+Testing 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Querying (emulator-5558) 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6
+Testing d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Querying (emulator-5558) d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE
+Testing cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Querying (emulator-5558) cz2tJTYpVVIqL6HDIQzcGBab38czscGz
+Testing g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Querying (emulator-5558) g6H09V8egKRLvUvbzAhiXN877QYyiXg1
+Testing yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Querying (emulator-5558) yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2
+Testing l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Querying (emulator-5558) l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v
+Testing zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Querying (emulator-5558) zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8
+Testing wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Querying (emulator-5558) wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti
+Testing qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Querying (emulator-5558) qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP
+Testing R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Querying (emulator-5558) R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H
+Testing Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Querying (emulator-5558) Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8
+Testing 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Querying (emulator-5558) 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W
+Testing KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Querying (emulator-5558) KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg
+Testing xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Querying (emulator-5558) xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC
+Testing W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Querying (emulator-5558) W2lhmxDvxtnbb6861DInUQLDkirHZyuI
+Testing THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Querying (emulator-5558) THsgxW47xfhJU5jePGrnjIWO7zA0GPmS
+Testing 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Querying (emulator-5558) 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd
+Testing szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Querying (emulator-5558) szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF
+Testing b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Querying (emulator-5558) b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1
+Testing JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+Querying (emulator-5558) JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8
+Querying * from emulator-5554
+Querying (emulator-5554) "*"
+Testing 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Testing d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Testing cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Testing g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Testing yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Testing l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Testing zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Testing wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Testing qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Testing R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Testing Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Testing 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Testing KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Testing xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Testing W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Testing THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Testing 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Testing szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Testing b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Testing JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+Querying * from emulator-5560
+Querying (emulator-5560) "*"
+Testing 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Testing d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Testing cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Testing g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Testing yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Testing l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Testing zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Testing wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Testing qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Testing R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Testing Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Testing 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Testing KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Testing xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Testing W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Testing THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Testing 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Testing szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Testing b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Testing JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+Querying * from emulator-5556
+Querying (emulator-5556) "*"
+Testing 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Testing d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Testing cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Testing g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Testing yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Testing l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Testing zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Testing wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Testing qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Testing R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Testing Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Testing 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Testing KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Testing xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Testing W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Testing THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Testing 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Testing szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Testing b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Testing JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+Querying * from emulator-5558
+Querying (emulator-5558) "*"
+Testing 68zXp1dbv7XFkvjkHGa7GaZlxmwF5Mz6 agBRXtIkbg3MT5vJp4Q5cWAXGchOEJda
+Testing d1LjFLaCwzqWPgiLWL52i8lexn2cLWsE 9pIr7kpY1SbKKHZXQ7JlaBpjFvrSMD4Z
+Testing cz2tJTYpVVIqL6HDIQzcGBab38czscGz SW3jHrl378nf9nMq8qOTl6UYjH5HDpXy
+Testing g6H09V8egKRLvUvbzAhiXN877QYyiXg1 pPob81I0MkqTuEnO01QO7NI2lB8Vytrd
+Testing yjSsfcMfbrq7870yzR4ElnnlcHCd4IA2 4O1vwBkLW6ls1ITaSlhqiJFxaBgeUF0v
+Testing l9JmKMIqM5HpYC1FEAkt4xszC1mdHN7v 7NbXsHfauOibKCp2YXB5rT0xBey2DCBK
+Testing zDkeIkd8gvCLhcBDONnLXxLROPx1Bnn8 8Tk6uqjD58OHf8lx5i5jUocPGaSEJ51E
+Testing wYIkJYKSTKeJpkjOJQgkM3TTFC9jiJti 0C8QfCY0w6FH74bz08oEbpPXuTPcwHw8
+Testing qooNsvcuwbmIF4QYTDxzOZoIZnjLjUEP kRnPQvPAsXj8daFJBYLsc0VAf60br3Yu
+Testing R9f2CAmyWc9vYbNaDrF6kvBjqbqN0e8H YBFe63ZDVw4693hoUDPcilDDnIfRHSIW
+Testing Y3ul6GOzeLdTrCKeLtWr6QN0tr1a1sV8 j3r90gjDVRpCnegEfSmxT0cGmBR70WgI
+Testing 86AtQK98DBd4jgUxBijSQ77gcNiJRr9W Jmb3bdB2dmQQHTNWM6AXVtlVf3pMUOrZ
+Testing KSJZAaD4mzz23OPXDiWu9dggjBEHtWkg QMAV0ud0BWVqngXxiHlbFuCYNQvqeE2F
+Testing xicRmI5YRWf3TTd5Z2q0yX6xUMp9rJUC 0Gjpi3iSgkGIKFsQa5n0ISjDKA17awyJ
+Testing W2lhmxDvxtnbb6861DInUQLDkirHZyuI W9M5JXUzY5SsfzqgRtTKAthiqZYD5Ykq
+Testing THsgxW47xfhJU5jePGrnjIWO7zA0GPmS xySMxhqJBk0PcjaU0S5mec3fp09ahfNa
+Testing 3a4D5VPVMvxsmlKVH4fkmx7SqiuLirsd xQbvyCCCngaEhh16vScoU4F6JdcvgQom
+Testing szkHa2BJrtbEc2Ug5WyKVhPbNGU2mBmF TH2dIzqUslS14itYjPbV0jKZUgMrmyRC
+Testing b3YP8Ymcdjwr5nmb1zyJmW7wPg7Y4hY1 vc1IKEM84gmnf9kjUVnspESEZQ5GlEno
+Testing JDqJ6nFzrpZ7oCXCwztahhAVnpPequc8 kzeym5MdN5czCatcKHkPuENui8LFCjgz
+
+Testing query with 3 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 14.8 MB/s (99828 bytes in 0.006s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 27.4 MB/s (99828 bytes in 0.003s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 21.7 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5558
+Starting on emulator-5556
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G PNzVU54A2cqw9sC2B82FyKfYA6VlmES8
+Inserting (emulator-5554) ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp PMoGjqH1zkPn95Plj2tbrErAP7qUjcv8
+Inserting (emulator-5554) wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf 8MG5mF9svO8ZIBnR8459DxXym7KtEmyn
+Inserting (emulator-5554) 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t JTA1MFpJqUTgkfGYf7NEbCMcoG9GdlyR
+Inserting (emulator-5554) Noq4vMobdewBokiFAQTcaEsZ89F25xYm DCGdbkgzkpJDE20rC3CR2er10Ra7O0ln
+Inserting from emulator-5558
+Inserting (emulator-5558) GicmcRdfHYADJgbGobC7akhfflquR158 KrnZQryeZ1s1yxyn1fwKrat2wBdihASG
+Inserting (emulator-5558) Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf oQ1Z4FtrINN4fjbTzMGZonZdoAWZiIcT
+Inserting (emulator-5558) tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88 5kRdkdFOdvw0pwS4PjQkzk7M8Lc5D50I
+Inserting (emulator-5558) 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk k6Ng3jimUwHkK2PPbokVIZy6hkCMkqn5
+Inserting (emulator-5558) T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU w1RYuBp4HTsX6itesTTAvAlWms5fOi1C
+Inserting from emulator-5556
+Inserting (emulator-5556) eWaacq9PO43E16AVfASgafqGmguQtpmU mZrzJBD5eWJxB9zumEafUQZjVln8Nh9N
+Inserting (emulator-5556) vj0THCKrpGc25qxwqrI6i81S8wzSdRaN wLiIey0VkN5ZOYRN5u7HneZdOnZeS2jv
+Inserting (emulator-5556) uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU QQaADiAuzXTXxfkKM7jtHneSzBLWvd3I
+Inserting (emulator-5556) A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp eLEM6kWsfVk0L1OmVlGZ6kZUnV2FFAnH
+Inserting (emulator-5556) oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx hqw0fdLdniO2FOYjSbto7XGg6nj99ZFd
+Waiting for 5 seconds for insert operations to complete
+Querying from emulator-5554
+Testing Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf oQ1Z4FtrINN4fjbTzMGZonZdoAWZiIcT
+Querying (emulator-5554) Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf
+Testing ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp PMoGjqH1zkPn95Plj2tbrErAP7qUjcv8
+Querying (emulator-5554) ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp
+Testing 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t JTA1MFpJqUTgkfGYf7NEbCMcoG9GdlyR
+Querying (emulator-5554) 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t
+Testing A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp eLEM6kWsfVk0L1OmVlGZ6kZUnV2FFAnH
+Querying (emulator-5554) A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp
+Testing 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk k6Ng3jimUwHkK2PPbokVIZy6hkCMkqn5
+Querying (emulator-5554) 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk
+Testing oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx hqw0fdLdniO2FOYjSbto7XGg6nj99ZFd
+Querying (emulator-5554) oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx
+Testing uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU QQaADiAuzXTXxfkKM7jtHneSzBLWvd3I
+Querying (emulator-5554) uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU
+Testing T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU w1RYuBp4HTsX6itesTTAvAlWms5fOi1C
+Querying (emulator-5554) T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU
+Testing GicmcRdfHYADJgbGobC7akhfflquR158 KrnZQryeZ1s1yxyn1fwKrat2wBdihASG
+Querying (emulator-5554) GicmcRdfHYADJgbGobC7akhfflquR158
+Testing jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G PNzVU54A2cqw9sC2B82FyKfYA6VlmES8
+Querying (emulator-5554) jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G
+Testing wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf 8MG5mF9svO8ZIBnR8459DxXym7KtEmyn
+Querying (emulator-5554) wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf
+Testing eWaacq9PO43E16AVfASgafqGmguQtpmU mZrzJBD5eWJxB9zumEafUQZjVln8Nh9N
+Querying (emulator-5554) eWaacq9PO43E16AVfASgafqGmguQtpmU
+Testing Noq4vMobdewBokiFAQTcaEsZ89F25xYm DCGdbkgzkpJDE20rC3CR2er10Ra7O0ln
+Querying (emulator-5554) Noq4vMobdewBokiFAQTcaEsZ89F25xYm
+Testing tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88 5kRdkdFOdvw0pwS4PjQkzk7M8Lc5D50I
+Querying (emulator-5554) tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88
+Testing vj0THCKrpGc25qxwqrI6i81S8wzSdRaN wLiIey0VkN5ZOYRN5u7HneZdOnZeS2jv
+Querying (emulator-5554) vj0THCKrpGc25qxwqrI6i81S8wzSdRaN
+Querying from emulator-5558
+Testing Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf oQ1Z4FtrINN4fjbTzMGZonZdoAWZiIcT
+Querying (emulator-5558) Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf
+Testing ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp PMoGjqH1zkPn95Plj2tbrErAP7qUjcv8
+Querying (emulator-5558) ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp
+Testing 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t JTA1MFpJqUTgkfGYf7NEbCMcoG9GdlyR
+Querying (emulator-5558) 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t
+Testing A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp eLEM6kWsfVk0L1OmVlGZ6kZUnV2FFAnH
+Querying (emulator-5558) A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp
+Testing 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk k6Ng3jimUwHkK2PPbokVIZy6hkCMkqn5
+Querying (emulator-5558) 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk
+Testing oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx hqw0fdLdniO2FOYjSbto7XGg6nj99ZFd
+Querying (emulator-5558) oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx
+Testing uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU QQaADiAuzXTXxfkKM7jtHneSzBLWvd3I
+Querying (emulator-5558) uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU
+Testing T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU w1RYuBp4HTsX6itesTTAvAlWms5fOi1C
+Querying (emulator-5558) T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU
+Testing GicmcRdfHYADJgbGobC7akhfflquR158 KrnZQryeZ1s1yxyn1fwKrat2wBdihASG
+Querying (emulator-5558) GicmcRdfHYADJgbGobC7akhfflquR158
+Testing jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G PNzVU54A2cqw9sC2B82FyKfYA6VlmES8
+Querying (emulator-5558) jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G
+Testing wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf 8MG5mF9svO8ZIBnR8459DxXym7KtEmyn
+Querying (emulator-5558) wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf
+Testing eWaacq9PO43E16AVfASgafqGmguQtpmU mZrzJBD5eWJxB9zumEafUQZjVln8Nh9N
+Querying (emulator-5558) eWaacq9PO43E16AVfASgafqGmguQtpmU
+Testing Noq4vMobdewBokiFAQTcaEsZ89F25xYm DCGdbkgzkpJDE20rC3CR2er10Ra7O0ln
+Querying (emulator-5558) Noq4vMobdewBokiFAQTcaEsZ89F25xYm
+Testing tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88 5kRdkdFOdvw0pwS4PjQkzk7M8Lc5D50I
+Querying (emulator-5558) tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88
+Testing vj0THCKrpGc25qxwqrI6i81S8wzSdRaN wLiIey0VkN5ZOYRN5u7HneZdOnZeS2jv
+Querying (emulator-5558) vj0THCKrpGc25qxwqrI6i81S8wzSdRaN
+Querying from emulator-5556
+Testing Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf oQ1Z4FtrINN4fjbTzMGZonZdoAWZiIcT
+Querying (emulator-5556) Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf
+Testing ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp PMoGjqH1zkPn95Plj2tbrErAP7qUjcv8
+Querying (emulator-5556) ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp
+Testing 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t JTA1MFpJqUTgkfGYf7NEbCMcoG9GdlyR
+Querying (emulator-5556) 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t
+Testing A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp eLEM6kWsfVk0L1OmVlGZ6kZUnV2FFAnH
+Querying (emulator-5556) A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp
+Testing 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk k6Ng3jimUwHkK2PPbokVIZy6hkCMkqn5
+Querying (emulator-5556) 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk
+Testing oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx hqw0fdLdniO2FOYjSbto7XGg6nj99ZFd
+Querying (emulator-5556) oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx
+Testing uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU QQaADiAuzXTXxfkKM7jtHneSzBLWvd3I
+Querying (emulator-5556) uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU
+Testing T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU w1RYuBp4HTsX6itesTTAvAlWms5fOi1C
+Querying (emulator-5556) T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU
+Testing GicmcRdfHYADJgbGobC7akhfflquR158 KrnZQryeZ1s1yxyn1fwKrat2wBdihASG
+Querying (emulator-5556) GicmcRdfHYADJgbGobC7akhfflquR158
+Testing jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G PNzVU54A2cqw9sC2B82FyKfYA6VlmES8
+Querying (emulator-5556) jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G
+Testing wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf 8MG5mF9svO8ZIBnR8459DxXym7KtEmyn
+Querying (emulator-5556) wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf
+Testing eWaacq9PO43E16AVfASgafqGmguQtpmU mZrzJBD5eWJxB9zumEafUQZjVln8Nh9N
+Querying (emulator-5556) eWaacq9PO43E16AVfASgafqGmguQtpmU
+Testing Noq4vMobdewBokiFAQTcaEsZ89F25xYm DCGdbkgzkpJDE20rC3CR2er10Ra7O0ln
+Querying (emulator-5556) Noq4vMobdewBokiFAQTcaEsZ89F25xYm
+Testing tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88 5kRdkdFOdvw0pwS4PjQkzk7M8Lc5D50I
+Querying (emulator-5556) tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88
+Testing vj0THCKrpGc25qxwqrI6i81S8wzSdRaN wLiIey0VkN5ZOYRN5u7HneZdOnZeS2jv
+Querying (emulator-5556) vj0THCKrpGc25qxwqrI6i81S8wzSdRaN
+Querying * from emulator-5554
+Querying (emulator-5554) "*"
+Testing Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf oQ1Z4FtrINN4fjbTzMGZonZdoAWZiIcT
+Testing ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp PMoGjqH1zkPn95Plj2tbrErAP7qUjcv8
+Testing 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t JTA1MFpJqUTgkfGYf7NEbCMcoG9GdlyR
+Testing A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp eLEM6kWsfVk0L1OmVlGZ6kZUnV2FFAnH
+Testing 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk k6Ng3jimUwHkK2PPbokVIZy6hkCMkqn5
+Testing oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx hqw0fdLdniO2FOYjSbto7XGg6nj99ZFd
+Testing uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU QQaADiAuzXTXxfkKM7jtHneSzBLWvd3I
+Testing T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU w1RYuBp4HTsX6itesTTAvAlWms5fOi1C
+Testing GicmcRdfHYADJgbGobC7akhfflquR158 KrnZQryeZ1s1yxyn1fwKrat2wBdihASG
+Testing jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G PNzVU54A2cqw9sC2B82FyKfYA6VlmES8
+Testing wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf 8MG5mF9svO8ZIBnR8459DxXym7KtEmyn
+Testing eWaacq9PO43E16AVfASgafqGmguQtpmU mZrzJBD5eWJxB9zumEafUQZjVln8Nh9N
+Testing Noq4vMobdewBokiFAQTcaEsZ89F25xYm DCGdbkgzkpJDE20rC3CR2er10Ra7O0ln
+Testing tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88 5kRdkdFOdvw0pwS4PjQkzk7M8Lc5D50I
+Testing vj0THCKrpGc25qxwqrI6i81S8wzSdRaN wLiIey0VkN5ZOYRN5u7HneZdOnZeS2jv
+Querying * from emulator-5558
+Querying (emulator-5558) "*"
+Testing Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf oQ1Z4FtrINN4fjbTzMGZonZdoAWZiIcT
+Testing ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp PMoGjqH1zkPn95Plj2tbrErAP7qUjcv8
+Testing 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t JTA1MFpJqUTgkfGYf7NEbCMcoG9GdlyR
+Testing A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp eLEM6kWsfVk0L1OmVlGZ6kZUnV2FFAnH
+Testing 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk k6Ng3jimUwHkK2PPbokVIZy6hkCMkqn5
+Testing oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx hqw0fdLdniO2FOYjSbto7XGg6nj99ZFd
+Testing uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU QQaADiAuzXTXxfkKM7jtHneSzBLWvd3I
+Testing T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU w1RYuBp4HTsX6itesTTAvAlWms5fOi1C
+Testing GicmcRdfHYADJgbGobC7akhfflquR158 KrnZQryeZ1s1yxyn1fwKrat2wBdihASG
+Testing jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G PNzVU54A2cqw9sC2B82FyKfYA6VlmES8
+Testing wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf 8MG5mF9svO8ZIBnR8459DxXym7KtEmyn
+Testing eWaacq9PO43E16AVfASgafqGmguQtpmU mZrzJBD5eWJxB9zumEafUQZjVln8Nh9N
+Testing Noq4vMobdewBokiFAQTcaEsZ89F25xYm DCGdbkgzkpJDE20rC3CR2er10Ra7O0ln
+Testing tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88 5kRdkdFOdvw0pwS4PjQkzk7M8Lc5D50I
+Testing vj0THCKrpGc25qxwqrI6i81S8wzSdRaN wLiIey0VkN5ZOYRN5u7HneZdOnZeS2jv
+Querying * from emulator-5556
+Querying (emulator-5556) "*"
+Testing Cl0HAI7KXsAbRpPB3LzTA9OTeArUhNaf oQ1Z4FtrINN4fjbTzMGZonZdoAWZiIcT
+Testing ROPcl3R5Xw7mOptkoSmL47Y5vNSvZPKp PMoGjqH1zkPn95Plj2tbrErAP7qUjcv8
+Testing 2HV6JBDoUC760ygScLOb5Lwc3gvOAa2t JTA1MFpJqUTgkfGYf7NEbCMcoG9GdlyR
+Testing A4tV0j0eq7KhVpz4l7dBWqTpNfHlIxyp eLEM6kWsfVk0L1OmVlGZ6kZUnV2FFAnH
+Testing 75tz8rc2h8SE4eqvUpERR2Ko1n0bKkTk k6Ng3jimUwHkK2PPbokVIZy6hkCMkqn5
+Testing oqp6WXQHvaKbwqsayq4onZ4Hp5mB0Amx hqw0fdLdniO2FOYjSbto7XGg6nj99ZFd
+Testing uwchWYFwyxN4uEjiSsDy7FtTzNRPq0iU QQaADiAuzXTXxfkKM7jtHneSzBLWvd3I
+Testing T6LEk3Zh3cS6P9B5iqA3c5CohMsLYepU w1RYuBp4HTsX6itesTTAvAlWms5fOi1C
+Testing GicmcRdfHYADJgbGobC7akhfflquR158 KrnZQryeZ1s1yxyn1fwKrat2wBdihASG
+Testing jLTSyPzuNzyRs6pc7YbGtGJfbugPqC0G PNzVU54A2cqw9sC2B82FyKfYA6VlmES8
+Testing wGca6DO8vGHmktVjr4LtMGgFFIj1YFbf 8MG5mF9svO8ZIBnR8459DxXym7KtEmyn
+Testing eWaacq9PO43E16AVfASgafqGmguQtpmU mZrzJBD5eWJxB9zumEafUQZjVln8Nh9N
+Testing Noq4vMobdewBokiFAQTcaEsZ89F25xYm DCGdbkgzkpJDE20rC3CR2er10Ra7O0ln
+Testing tZGpkfmGOh4oKep8j2Jgw1zzVEV3KP88 5kRdkdFOdvw0pwS4PjQkzk7M8Lc5D50I
+Testing vj0THCKrpGc25qxwqrI6i81S8wzSdRaN wLiIey0VkN5ZOYRN5u7HneZdOnZeS2jv
+
+Testing query with 1 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 14.5 MB/s (99828 bytes in 0.007s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) EtUYYOikhkY2hkr40O9w9OTWFB31NQra WvEWTju727XJLlfTyI1cqdK09uONNVJ3
+Inserting (emulator-5554) FiFcTanQ4p88T0Yfpgdso05pp1yWzqHs 6E1eCmtYAxEUziCBDZEfeXp7gcmw6ofq
+Inserting (emulator-5554) JjRqJOJ5EVqayNpi9iI444SH3oVJTEio gjy03rAEEiMxTrXDK6d3KdYThzF1ycNi
+Inserting (emulator-5554) 2vVKgA4FXzz6lGJshjbO2uoPOORDYj5b HNkidkJbjjfW1yJDJF1H6w5wvS9TA9wV
+Inserting (emulator-5554) 3QJahtpwFNegsIoemisuJkROkCUKT7xx qWKegX5ZVgemezd36eXw5liTNeWoXYtR
+Waiting for 5 seconds for insert operations to complete
+Querying from emulator-5554
+Testing 3QJahtpwFNegsIoemisuJkROkCUKT7xx qWKegX5ZVgemezd36eXw5liTNeWoXYtR
+Querying (emulator-5554) 3QJahtpwFNegsIoemisuJkROkCUKT7xx
+Testing 2vVKgA4FXzz6lGJshjbO2uoPOORDYj5b HNkidkJbjjfW1yJDJF1H6w5wvS9TA9wV
+Querying (emulator-5554) 2vVKgA4FXzz6lGJshjbO2uoPOORDYj5b
+Testing FiFcTanQ4p88T0Yfpgdso05pp1yWzqHs 6E1eCmtYAxEUziCBDZEfeXp7gcmw6ofq
+Querying (emulator-5554) FiFcTanQ4p88T0Yfpgdso05pp1yWzqHs
+Testing EtUYYOikhkY2hkr40O9w9OTWFB31NQra WvEWTju727XJLlfTyI1cqdK09uONNVJ3
+Querying (emulator-5554) EtUYYOikhkY2hkr40O9w9OTWFB31NQra
+Testing JjRqJOJ5EVqayNpi9iI444SH3oVJTEio gjy03rAEEiMxTrXDK6d3KdYThzF1ycNi
+Querying (emulator-5554) JjRqJOJ5EVqayNpi9iI444SH3oVJTEio
+Querying * from emulator-5554
+Querying (emulator-5554) "*"
+Testing 3QJahtpwFNegsIoemisuJkROkCUKT7xx qWKegX5ZVgemezd36eXw5liTNeWoXYtR
+Testing 2vVKgA4FXzz6lGJshjbO2uoPOORDYj5b HNkidkJbjjfW1yJDJF1H6w5wvS9TA9wV
+Testing FiFcTanQ4p88T0Yfpgdso05pp1yWzqHs 6E1eCmtYAxEUziCBDZEfeXp7gcmw6ofq
+Testing EtUYYOikhkY2hkr40O9w9OTWFB31NQra WvEWTju727XJLlfTyI1cqdK09uONNVJ3
+Testing JjRqJOJ5EVqayNpi9iI444SH3oVJTEio gjy03rAEEiMxTrXDK6d3KdYThzF1ycNi
+
+Testing query with 2 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 27.7 MB/s (99828 bytes in 0.003s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 19.3 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) Yw2vNo4oB9YAwPbTm7dHA3pTUQ2I4z43 k1p6qViozainaVZyWFLxwrf2pDD3ZwbS
+Inserting (emulator-5554) SQJWFjekMwcNa9rfPQ43mDGPj3bdtlgA ueMTd0ruQcOTq5aPaKq6VzmLhqZ2eGBN
+Inserting (emulator-5554) OcbwRyuXVwHeJCD3NxWEBeXqMjftDsdb 52wONT9nzRQtgEQ4MZLWcAV7Xbf3qpxD
+Inserting (emulator-5554) Coz1O95o2GRbWYsts5Nm1u5pgtdhMmsR wdILB6FuuiihQKJ491B5dbrZjQaEpNlH
+Inserting (emulator-5554) Q613uIgEQY6B0BPdEAmP2vjkPGsECMra 68kCEqAKRqPVqL20rjhAVZv9V7HoG3PV
+Inserting from emulator-5556
+Inserting (emulator-5556) dNdi1BltLMjP8V454MutpRDS3YD1zrIn ZWG1EWs2qDh73jAQhomrFicSb0o1b29n
+Inserting (emulator-5556) HIAG41YGQHKzzhL8vajM1CiYivUTO7ar SlPCRsUhAZc9rQOFTHfzF1HhIcC7PEuq
+Inserting (emulator-5556) DOb81cizc2eEIwuBOslssvfvMBrhGeXt SmYTo0RAiuR5BhCr9vlXLQ3UohC5UFaO
+Inserting (emulator-5556) 8K2dWglZbaNPn8bsxRtJJmqvyqwJw4gn s1vzwGizKs1Pm38Dv4akz0yhd15tSUdG
+Inserting (emulator-5556) hBohqZa6HEsoxFHlHwJE1hZdztCVG9ub EhCt5C3CrOeeJXSK0csJsqFNlRn4NPXf
+Waiting for 5 seconds for insert operations to complete
+Querying from emulator-5554
+Testing DOb81cizc2eEIwuBOslssvfvMBrhGeXt SmYTo0RAiuR5BhCr9vlXLQ3UohC5UFaO
+Querying (emulator-5554) DOb81cizc2eEIwuBOslssvfvMBrhGeXt
+Testing SQJWFjekMwcNa9rfPQ43mDGPj3bdtlgA ueMTd0ruQcOTq5aPaKq6VzmLhqZ2eGBN
+Querying (emulator-5554) SQJWFjekMwcNa9rfPQ43mDGPj3bdtlgA
+Testing HIAG41YGQHKzzhL8vajM1CiYivUTO7ar SlPCRsUhAZc9rQOFTHfzF1HhIcC7PEuq
+Querying (emulator-5554) HIAG41YGQHKzzhL8vajM1CiYivUTO7ar
+Testing Q613uIgEQY6B0BPdEAmP2vjkPGsECMra 68kCEqAKRqPVqL20rjhAVZv9V7HoG3PV
+Querying (emulator-5554) Q613uIgEQY6B0BPdEAmP2vjkPGsECMra
+Testing 8K2dWglZbaNPn8bsxRtJJmqvyqwJw4gn s1vzwGizKs1Pm38Dv4akz0yhd15tSUdG
+Querying (emulator-5554) 8K2dWglZbaNPn8bsxRtJJmqvyqwJw4gn
+Testing Coz1O95o2GRbWYsts5Nm1u5pgtdhMmsR wdILB6FuuiihQKJ491B5dbrZjQaEpNlH
+Querying (emulator-5554) Coz1O95o2GRbWYsts5Nm1u5pgtdhMmsR
+Testing Yw2vNo4oB9YAwPbTm7dHA3pTUQ2I4z43 k1p6qViozainaVZyWFLxwrf2pDD3ZwbS
+Querying (emulator-5554) Yw2vNo4oB9YAwPbTm7dHA3pTUQ2I4z43
+Testing dNdi1BltLMjP8V454MutpRDS3YD1zrIn ZWG1EWs2qDh73jAQhomrFicSb0o1b29n
+Querying (emulator-5554) dNdi1BltLMjP8V454MutpRDS3YD1zrIn
+Testing OcbwRyuXVwHeJCD3NxWEBeXqMjftDsdb 52wONT9nzRQtgEQ4MZLWcAV7Xbf3qpxD
+Querying (emulator-5554) OcbwRyuXVwHeJCD3NxWEBeXqMjftDsdb
+Testing hBohqZa6HEsoxFHlHwJE1hZdztCVG9ub EhCt5C3CrOeeJXSK0csJsqFNlRn4NPXf
+Querying (emulator-5554) hBohqZa6HEsoxFHlHwJE1hZdztCVG9ub
+Querying from emulator-5556
+Testing DOb81cizc2eEIwuBOslssvfvMBrhGeXt SmYTo0RAiuR5BhCr9vlXLQ3UohC5UFaO
+Querying (emulator-5556) DOb81cizc2eEIwuBOslssvfvMBrhGeXt
+Testing SQJWFjekMwcNa9rfPQ43mDGPj3bdtlgA ueMTd0ruQcOTq5aPaKq6VzmLhqZ2eGBN
+Querying (emulator-5556) SQJWFjekMwcNa9rfPQ43mDGPj3bdtlgA
+Testing HIAG41YGQHKzzhL8vajM1CiYivUTO7ar SlPCRsUhAZc9rQOFTHfzF1HhIcC7PEuq
+Querying (emulator-5556) HIAG41YGQHKzzhL8vajM1CiYivUTO7ar
+Testing Q613uIgEQY6B0BPdEAmP2vjkPGsECMra 68kCEqAKRqPVqL20rjhAVZv9V7HoG3PV
+Querying (emulator-5556) Q613uIgEQY6B0BPdEAmP2vjkPGsECMra
+Testing 8K2dWglZbaNPn8bsxRtJJmqvyqwJw4gn s1vzwGizKs1Pm38Dv4akz0yhd15tSUdG
+Querying (emulator-5556) 8K2dWglZbaNPn8bsxRtJJmqvyqwJw4gn
+Testing Coz1O95o2GRbWYsts5Nm1u5pgtdhMmsR wdILB6FuuiihQKJ491B5dbrZjQaEpNlH
+Querying (emulator-5556) Coz1O95o2GRbWYsts5Nm1u5pgtdhMmsR
+Testing Yw2vNo4oB9YAwPbTm7dHA3pTUQ2I4z43 k1p6qViozainaVZyWFLxwrf2pDD3ZwbS
+Querying (emulator-5556) Yw2vNo4oB9YAwPbTm7dHA3pTUQ2I4z43
+Testing dNdi1BltLMjP8V454MutpRDS3YD1zrIn ZWG1EWs2qDh73jAQhomrFicSb0o1b29n
+Querying (emulator-5556) dNdi1BltLMjP8V454MutpRDS3YD1zrIn
+Testing OcbwRyuXVwHeJCD3NxWEBeXqMjftDsdb 52wONT9nzRQtgEQ4MZLWcAV7Xbf3qpxD
+Querying (emulator-5556) OcbwRyuXVwHeJCD3NxWEBeXqMjftDsdb
+Testing hBohqZa6HEsoxFHlHwJE1hZdztCVG9ub EhCt5C3CrOeeJXSK0csJsqFNlRn4NPXf
+Querying (emulator-5556) hBohqZa6HEsoxFHlHwJE1hZdztCVG9ub
+Querying * from emulator-5554
+Querying (emulator-5554) "*"
+Testing DOb81cizc2eEIwuBOslssvfvMBrhGeXt SmYTo0RAiuR5BhCr9vlXLQ3UohC5UFaO
+Testing SQJWFjekMwcNa9rfPQ43mDGPj3bdtlgA ueMTd0ruQcOTq5aPaKq6VzmLhqZ2eGBN
+Testing HIAG41YGQHKzzhL8vajM1CiYivUTO7ar SlPCRsUhAZc9rQOFTHfzF1HhIcC7PEuq
+Testing Q613uIgEQY6B0BPdEAmP2vjkPGsECMra 68kCEqAKRqPVqL20rjhAVZv9V7HoG3PV
+Testing 8K2dWglZbaNPn8bsxRtJJmqvyqwJw4gn s1vzwGizKs1Pm38Dv4akz0yhd15tSUdG
+Testing Coz1O95o2GRbWYsts5Nm1u5pgtdhMmsR wdILB6FuuiihQKJ491B5dbrZjQaEpNlH
+Testing Yw2vNo4oB9YAwPbTm7dHA3pTUQ2I4z43 k1p6qViozainaVZyWFLxwrf2pDD3ZwbS
+Testing dNdi1BltLMjP8V454MutpRDS3YD1zrIn ZWG1EWs2qDh73jAQhomrFicSb0o1b29n
+Testing OcbwRyuXVwHeJCD3NxWEBeXqMjftDsdb 52wONT9nzRQtgEQ4MZLWcAV7Xbf3qpxD
+Testing hBohqZa6HEsoxFHlHwJE1hZdztCVG9ub EhCt5C3CrOeeJXSK0csJsqFNlRn4NPXf
+Querying * from emulator-5556
+Querying (emulator-5556) "*"
+Testing DOb81cizc2eEIwuBOslssvfvMBrhGeXt SmYTo0RAiuR5BhCr9vlXLQ3UohC5UFaO
+Testing SQJWFjekMwcNa9rfPQ43mDGPj3bdtlgA ueMTd0ruQcOTq5aPaKq6VzmLhqZ2eGBN
+Testing HIAG41YGQHKzzhL8vajM1CiYivUTO7ar SlPCRsUhAZc9rQOFTHfzF1HhIcC7PEuq
+Testing Q613uIgEQY6B0BPdEAmP2vjkPGsECMra 68kCEqAKRqPVqL20rjhAVZv9V7HoG3PV
+Testing 8K2dWglZbaNPn8bsxRtJJmqvyqwJw4gn s1vzwGizKs1Pm38Dv4akz0yhd15tSUdG
+Testing Coz1O95o2GRbWYsts5Nm1u5pgtdhMmsR wdILB6FuuiihQKJ491B5dbrZjQaEpNlH
+Testing Yw2vNo4oB9YAwPbTm7dHA3pTUQ2I4z43 k1p6qViozainaVZyWFLxwrf2pDD3ZwbS
+Testing dNdi1BltLMjP8V454MutpRDS3YD1zrIn ZWG1EWs2qDh73jAQhomrFicSb0o1b29n
+Testing OcbwRyuXVwHeJCD3NxWEBeXqMjftDsdb 52wONT9nzRQtgEQ4MZLWcAV7Xbf3qpxD
+Testing hBohqZa6HEsoxFHlHwJE1hZdztCVG9ub EhCt5C3CrOeeJXSK0csJsqFNlRn4NPXf
+Total score so far: 9
+
+Testing delete with 1 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 22.5 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) KMefoxVvENFF43pbG3o3i8t6SjfwP0NM AsbrJIGbOif81jUJumx8HazMK6wh3WF7
+Inserting (emulator-5554) j91PkwWQbsXIwhApOvs10ilJJwYHzQ8e 1jOj5EUQpQAiZlSHhCAIPqA142qiVRvN
+Inserting (emulator-5554) pntzipPaczlmGJvnstsHyXWoixujfMEl 6ILMvofB6lofPn85dHxNkWenRK4saoTL
+Inserting (emulator-5554) WMFmkteWMq0aSVBfuAB3S8gFXGFg4Pf7 CQ3FSuvROoSMO9owdBlGlEjxkHAvMI3D
+Inserting (emulator-5554) hYEDMXf8grxrTFdO1qZKGbmvfxhHcIEv IlfwaenInjzWimdHCpfkha3WFetha5KN
+Waiting for 5 seconds for insert operations to complete
+Deleting from emulator-5554
+Deleting (emulator-5554) KMefoxVvENFF43pbG3o3i8t6SjfwP0NM
+Deleting (emulator-5554) j91PkwWQbsXIwhApOvs10ilJJwYHzQ8e
+Deleting (emulator-5554) pntzipPaczlmGJvnstsHyXWoixujfMEl
+Deleting (emulator-5554) WMFmkteWMq0aSVBfuAB3S8gFXGFg4Pf7
+Deleting (emulator-5554) hYEDMXf8grxrTFdO1qZKGbmvfxhHcIEv
+Querying from emulator-5554
+Querying (emulator-5554) "*"
+Result: {}
+
+Testing delete with 2 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 13.5 MB/s (99828 bytes in 0.007s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 18.6 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) S2AXpAPtM6IIKB1JnSRfjaYKXKUC0j0p 0hi3O3lyz9YRfnkmOFuLT0W77CrhIAqW
+Inserting (emulator-5554) d3qhnTWApMlshR0a3BwI9PpCaQ4pbYBR 8L3IVIRB6YIrNrcpyIoWjtGvUY1FuQl2
+Inserting (emulator-5554) oiajws8yEvx8XjGXmC7T1F0U0yLNVDby jJq6hD4r10iIb7jcVtYYpiPNH0KhIdBi
+Inserting (emulator-5554) eKOt7udocEsZVbTHQGQaeiu1zJ3Ulj0S FZfWIhNImUNmMjmlJe6JKoLnQDZ06oOl
+Inserting (emulator-5554) tGOJQNDDpS1K3Qii1prRuHnXu6xGUqWe lBmFAZDi8EcvdgIzXhzSUg7OWmCRWmb8
+Inserting from emulator-5556
+Inserting (emulator-5556) 8YzqmtLClujgzNKsYnYCpVjj6kLl8HTf h4Ngf69Mi8lPrTibMANSrKaSauz8FcyD
+Inserting (emulator-5556) LIe61pOH2VBrX8xv7UO7zuHboiwKqKMf ASDtgV7xy7WZvAaOE7NTrB0Utj5alkKN
+Inserting (emulator-5556) O4GMLCcTlfe6l1e9wpLTVjdS7qPBneHN Dgs6jjNwl1uGlPGKBPa6UliAqPwXMXab
+Inserting (emulator-5556) 39jc99424ruBdZa1RZ0nP0qUmZ7fzAIq 865j18xhDxnqCirkux6AJlXRP5fs1faH
+Inserting (emulator-5556) m4s15hqmcVqAtcBn8FCUVfBoxa8m9uil kxkp5ugCQ6QBo1SV99LYdtx7Dbg9KHrd
+Waiting for 5 seconds for insert operations to complete
+Deleting from emulator-5554
+Deleting (emulator-5554) 8YzqmtLClujgzNKsYnYCpVjj6kLl8HTf
+Deleting (emulator-5554) m4s15hqmcVqAtcBn8FCUVfBoxa8m9uil
+Deleting (emulator-5554) S2AXpAPtM6IIKB1JnSRfjaYKXKUC0j0p
+Deleting (emulator-5554) 39jc99424ruBdZa1RZ0nP0qUmZ7fzAIq
+Deleting (emulator-5554) eKOt7udocEsZVbTHQGQaeiu1zJ3Ulj0S
+Deleting (emulator-5554) oiajws8yEvx8XjGXmC7T1F0U0yLNVDby
+Deleting (emulator-5554) LIe61pOH2VBrX8xv7UO7zuHboiwKqKMf
+Deleting (emulator-5554) d3qhnTWApMlshR0a3BwI9PpCaQ4pbYBR
+Deleting (emulator-5554) O4GMLCcTlfe6l1e9wpLTVjdS7qPBneHN
+Deleting (emulator-5554) tGOJQNDDpS1K3Qii1prRuHnXu6xGUqWe
+Deleting from emulator-5556
+Deleting (emulator-5556) 8YzqmtLClujgzNKsYnYCpVjj6kLl8HTf
+Deleting (emulator-5556) m4s15hqmcVqAtcBn8FCUVfBoxa8m9uil
+Deleting (emulator-5556) S2AXpAPtM6IIKB1JnSRfjaYKXKUC0j0p
+Deleting (emulator-5556) 39jc99424ruBdZa1RZ0nP0qUmZ7fzAIq
+Deleting (emulator-5556) eKOt7udocEsZVbTHQGQaeiu1zJ3Ulj0S
+Deleting (emulator-5556) oiajws8yEvx8XjGXmC7T1F0U0yLNVDby
+Deleting (emulator-5556) LIe61pOH2VBrX8xv7UO7zuHboiwKqKMf
+Deleting (emulator-5556) d3qhnTWApMlshR0a3BwI9PpCaQ4pbYBR
+Deleting (emulator-5556) O4GMLCcTlfe6l1e9wpLTVjdS7qPBneHN
+Deleting (emulator-5556) tGOJQNDDpS1K3Qii1prRuHnXu6xGUqWe
+Querying from emulator-5554
+Querying (emulator-5554) "*"
+Result: {}
+
+Testing delete with 4 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 21.1 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 21.8 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 23.6 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 21.8 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5556
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) HumQXcWvOgO36YRu0Q0ejZ3psFPUiTlo L2lYlHtVcXWq4XTupniB7xxzNxtwrJZf
+Inserting (emulator-5554) UtOMMAAxp67Kcibhb1jF6k0H0QdBkreD 58PtKuuyRSYddT85O0PIWakVywc0P4wA
+Inserting (emulator-5554) obMbjAOdf7N5QF3YZIvIjCikazTuxwQu dXPBShwWTvLa95LwESRNGyJtVhbYWGAz
+Inserting (emulator-5554) VOyobJZPGR7otYvZJoieEBvJd3jAKXaW y21w73JBEvEautw9a9zEQoL8uC4j5LcK
+Inserting (emulator-5554) DdRnVERRFS0GJjGGJQu3omDH1cm7QnMT F6OZcRgPbfo1V4tsVQspHNjVJXpH8MHU
+Inserting from emulator-5558
+Inserting (emulator-5558) bCVJZU43JlrR97rX7rkyEGTGMZoAwudt OHZE3051l6b12Lw6raXAnbS4X5tyXQWq
+Inserting (emulator-5558) ZkKI01n3XKVaGh0kh1TDLDCMSoXZ2MP0 MApuinOV8KyfvsgjoNcUDYTLypRUU18T
+Inserting (emulator-5558) d5MEkNh63VZwxZ4h6EktchxbUi3F2XQd nge8z5BwxthkrXxSCDR0R8Sc3J1fctFg
+Inserting (emulator-5558) biiGZMLD2pnBzURtXHWTzHUEuQt9NsOz Mo4GNjdyJvJyCdh1PxeFvCfCpMgj7dOt
+Inserting (emulator-5558) lETpBwTricJMBplCKLxG7OSQoiQMwGPk B6sKertSf4ABPMXBV5CfBGqrreL1D7ZY
+Inserting from emulator-5560
+Inserting (emulator-5560) rTwZMBMFkQ8Lxj9Y6p6H0NlEiL4N6tFV tM99s4rOEoghgCWTTIIVcaiDALCCZIlS
+Inserting (emulator-5560) SAhUe5F0b8RgBaZvdcQ2pNhuHGa0YAyV doUvnpO93iRXNDOwHFec28GyG5nuYafn
+Inserting (emulator-5560) HxKjfXgXd3ZikzVxxbNHUODcEpkczu04 h0eFYQMNjiQfsK4CTou1BYfDVXTAvMvT
+Inserting (emulator-5560) ANdRAylgNRcx771pzZN7j7QzeGtovSJr leIjbSFfYYjYdHkpuDWWWCoCV5asHPTQ
+Inserting (emulator-5560) SvDtWgDX3vRFoE32Ibzt4CRdJ7S66pPH ByBBoZ6cPR7hounFcvg6xtndKuaN16wc
+Inserting from emulator-5556
+Inserting (emulator-5556) JZWE2br1jsMKjzAWt4yLfoWY6KwUeN8f 6vLdgF6JII3mUGlpSKBCoEfBUwIEFLLd
+Inserting (emulator-5556) EqYZfg0d4mkMbCx9kefRGdohLHWFKTlq a00M9bMGK0ccRlnSGzEPkdLiTaf5cbIE
+Inserting (emulator-5556) q2ePGUM9xP6dS6qFahsecsGmHyvbwA3t q7uYjNx9FubKjgCzf2hS3qJ94VsWle2P
+Inserting (emulator-5556) e58x3M29B3iFMmFnB2PadrnJBZB9KNcd d6ULDsSW6UiHUeUYs2Yp4Sd5NH7Pat2v
+Inserting (emulator-5556) eRZpnE3pHjm45hCmX0jdTkzD78pxPOXe pMtPlrG7Swo37Hbc3yu2ljUkta6uA9Qf
+Waiting for 5 seconds for insert operations to complete
+Deleting from emulator-5554
+Deleting (emulator-5554) UtOMMAAxp67Kcibhb1jF6k0H0QdBkreD
+Deleting (emulator-5554) d5MEkNh63VZwxZ4h6EktchxbUi3F2XQd
+Deleting (emulator-5554) HxKjfXgXd3ZikzVxxbNHUODcEpkczu04
+Deleting (emulator-5554) ZkKI01n3XKVaGh0kh1TDLDCMSoXZ2MP0
+Deleting (emulator-5554) bCVJZU43JlrR97rX7rkyEGTGMZoAwudt
+Deleting (emulator-5554) obMbjAOdf7N5QF3YZIvIjCikazTuxwQu
+Deleting (emulator-5554) ANdRAylgNRcx771pzZN7j7QzeGtovSJr
+Deleting (emulator-5554) JZWE2br1jsMKjzAWt4yLfoWY6KwUeN8f
+Deleting (emulator-5554) lETpBwTricJMBplCKLxG7OSQoiQMwGPk
+Deleting (emulator-5554) HumQXcWvOgO36YRu0Q0ejZ3psFPUiTlo
+Deleting (emulator-5554) biiGZMLD2pnBzURtXHWTzHUEuQt9NsOz
+Deleting (emulator-5554) e58x3M29B3iFMmFnB2PadrnJBZB9KNcd
+Deleting (emulator-5554) DdRnVERRFS0GJjGGJQu3omDH1cm7QnMT
+Deleting (emulator-5554) SvDtWgDX3vRFoE32Ibzt4CRdJ7S66pPH
+Deleting (emulator-5554) EqYZfg0d4mkMbCx9kefRGdohLHWFKTlq
+Deleting (emulator-5554) rTwZMBMFkQ8Lxj9Y6p6H0NlEiL4N6tFV
+Deleting (emulator-5554) SAhUe5F0b8RgBaZvdcQ2pNhuHGa0YAyV
+Deleting (emulator-5554) VOyobJZPGR7otYvZJoieEBvJd3jAKXaW
+Deleting (emulator-5554) q2ePGUM9xP6dS6qFahsecsGmHyvbwA3t
+Deleting (emulator-5554) eRZpnE3pHjm45hCmX0jdTkzD78pxPOXe
+Deleting from emulator-5558
+Deleting (emulator-5558) UtOMMAAxp67Kcibhb1jF6k0H0QdBkreD
+Deleting (emulator-5558) d5MEkNh63VZwxZ4h6EktchxbUi3F2XQd
+Deleting (emulator-5558) HxKjfXgXd3ZikzVxxbNHUODcEpkczu04
+Deleting (emulator-5558) ZkKI01n3XKVaGh0kh1TDLDCMSoXZ2MP0
+Deleting (emulator-5558) bCVJZU43JlrR97rX7rkyEGTGMZoAwudt
+Deleting (emulator-5558) obMbjAOdf7N5QF3YZIvIjCikazTuxwQu
+Deleting (emulator-5558) ANdRAylgNRcx771pzZN7j7QzeGtovSJr
+Deleting (emulator-5558) JZWE2br1jsMKjzAWt4yLfoWY6KwUeN8f
+Deleting (emulator-5558) lETpBwTricJMBplCKLxG7OSQoiQMwGPk
+Deleting (emulator-5558) HumQXcWvOgO36YRu0Q0ejZ3psFPUiTlo
+Deleting (emulator-5558) biiGZMLD2pnBzURtXHWTzHUEuQt9NsOz
+Deleting (emulator-5558) e58x3M29B3iFMmFnB2PadrnJBZB9KNcd
+Deleting (emulator-5558) DdRnVERRFS0GJjGGJQu3omDH1cm7QnMT
+Deleting (emulator-5558) SvDtWgDX3vRFoE32Ibzt4CRdJ7S66pPH
+Deleting (emulator-5558) EqYZfg0d4mkMbCx9kefRGdohLHWFKTlq
+Deleting (emulator-5558) rTwZMBMFkQ8Lxj9Y6p6H0NlEiL4N6tFV
+Deleting (emulator-5558) SAhUe5F0b8RgBaZvdcQ2pNhuHGa0YAyV
+Deleting (emulator-5558) VOyobJZPGR7otYvZJoieEBvJd3jAKXaW
+Deleting (emulator-5558) q2ePGUM9xP6dS6qFahsecsGmHyvbwA3t
+Deleting (emulator-5558) eRZpnE3pHjm45hCmX0jdTkzD78pxPOXe
+Deleting from emulator-5560
+Deleting (emulator-5560) UtOMMAAxp67Kcibhb1jF6k0H0QdBkreD
+Deleting (emulator-5560) d5MEkNh63VZwxZ4h6EktchxbUi3F2XQd
+Deleting (emulator-5560) HxKjfXgXd3ZikzVxxbNHUODcEpkczu04
+Deleting (emulator-5560) ZkKI01n3XKVaGh0kh1TDLDCMSoXZ2MP0
+Deleting (emulator-5560) bCVJZU43JlrR97rX7rkyEGTGMZoAwudt
+Deleting (emulator-5560) obMbjAOdf7N5QF3YZIvIjCikazTuxwQu
+Deleting (emulator-5560) ANdRAylgNRcx771pzZN7j7QzeGtovSJr
+Deleting (emulator-5560) JZWE2br1jsMKjzAWt4yLfoWY6KwUeN8f
+Deleting (emulator-5560) lETpBwTricJMBplCKLxG7OSQoiQMwGPk
+Deleting (emulator-5560) HumQXcWvOgO36YRu0Q0ejZ3psFPUiTlo
+Deleting (emulator-5560) biiGZMLD2pnBzURtXHWTzHUEuQt9NsOz
+Deleting (emulator-5560) e58x3M29B3iFMmFnB2PadrnJBZB9KNcd
+Deleting (emulator-5560) DdRnVERRFS0GJjGGJQu3omDH1cm7QnMT
+Deleting (emulator-5560) SvDtWgDX3vRFoE32Ibzt4CRdJ7S66pPH
+Deleting (emulator-5560) EqYZfg0d4mkMbCx9kefRGdohLHWFKTlq
+Deleting (emulator-5560) rTwZMBMFkQ8Lxj9Y6p6H0NlEiL4N6tFV
+Deleting (emulator-5560) SAhUe5F0b8RgBaZvdcQ2pNhuHGa0YAyV
+Deleting (emulator-5560) VOyobJZPGR7otYvZJoieEBvJd3jAKXaW
+Deleting (emulator-5560) q2ePGUM9xP6dS6qFahsecsGmHyvbwA3t
+Deleting (emulator-5560) eRZpnE3pHjm45hCmX0jdTkzD78pxPOXe
+Deleting from emulator-5556
+Deleting (emulator-5556) UtOMMAAxp67Kcibhb1jF6k0H0QdBkreD
+Deleting (emulator-5556) d5MEkNh63VZwxZ4h6EktchxbUi3F2XQd
+Deleting (emulator-5556) HxKjfXgXd3ZikzVxxbNHUODcEpkczu04
+Deleting (emulator-5556) ZkKI01n3XKVaGh0kh1TDLDCMSoXZ2MP0
+Deleting (emulator-5556) bCVJZU43JlrR97rX7rkyEGTGMZoAwudt
+Deleting (emulator-5556) obMbjAOdf7N5QF3YZIvIjCikazTuxwQu
+Deleting (emulator-5556) ANdRAylgNRcx771pzZN7j7QzeGtovSJr
+Deleting (emulator-5556) JZWE2br1jsMKjzAWt4yLfoWY6KwUeN8f
+Deleting (emulator-5556) lETpBwTricJMBplCKLxG7OSQoiQMwGPk
+Deleting (emulator-5556) HumQXcWvOgO36YRu0Q0ejZ3psFPUiTlo
+Deleting (emulator-5556) biiGZMLD2pnBzURtXHWTzHUEuQt9NsOz
+Deleting (emulator-5556) e58x3M29B3iFMmFnB2PadrnJBZB9KNcd
+Deleting (emulator-5556) DdRnVERRFS0GJjGGJQu3omDH1cm7QnMT
+Deleting (emulator-5556) SvDtWgDX3vRFoE32Ibzt4CRdJ7S66pPH
+Deleting (emulator-5556) EqYZfg0d4mkMbCx9kefRGdohLHWFKTlq
+Deleting (emulator-5556) rTwZMBMFkQ8Lxj9Y6p6H0NlEiL4N6tFV
+Deleting (emulator-5556) SAhUe5F0b8RgBaZvdcQ2pNhuHGa0YAyV
+Deleting (emulator-5556) VOyobJZPGR7otYvZJoieEBvJd3jAKXaW
+Deleting (emulator-5556) q2ePGUM9xP6dS6qFahsecsGmHyvbwA3t
+Deleting (emulator-5556) eRZpnE3pHjm45hCmX0jdTkzD78pxPOXe
+Querying from emulator-5558
+Querying (emulator-5558) "*"
+Result: {}
+
+Testing delete with 3 AVDs
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Failure
+Installing on emulator-5554
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 24.6 MB/s (99828 bytes in 0.004s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 20.4 MB/s (99828 bytes in 0.005s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+[ 65%] /data/local/tmp/app-debug.apk
+[100%] /data/local/tmp/app-debug.apk
+SimpleDht/app/build/outputs/apk/debug/app-debug.apk: 1 file pushed. 30.1 MB/s (99828 bytes in 0.003s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Waiting for 5 seconds for join operations to complete
+Inserting from emulator-5554
+Inserting (emulator-5554) zOCT2EUJAEXsyPYhznhyQnhojHV3EckE Ni1wExmo1xiYkzwb9Tfl60Ml81gaQIkv
+Inserting (emulator-5554) kp7CUKldNAEaA8X6eKYF0mvT8umFySxJ 4iv3ojyEIWkoXmH0ffM0KxyG4o8uphNS
+Inserting (emulator-5554) 4sSEVGpPwcQneFpkECNduPvPhKcGcB3j KVRr5tkIJvMFhjhoHRlVy06xm6lDCBDU
+Inserting (emulator-5554) r0vSQXR7hVoLnTPo8CP4dimcp9xRTSTK CnpYSgkUyKJ3OPmWUzXruhCXEvzaYuNZ
+Inserting (emulator-5554) n2THmel594u21HVOvpRa732ScQdoA0xN b6cyKEWaQ5AMgankx1ii4hsr5RApSaSv
+Inserting from emulator-5556
+Inserting (emulator-5556) rIsKPObgdaFtnPnw2Wu8OmdWHbaMOj4e SLufU9LEwYr1mdR6zqwDJ9ssLZ8CiJ7Z
+Inserting (emulator-5556) 4FpbNQsnYhfWxf5wJjj0lD1Dp9yZChsw hlSsX1HglF8gNJdojTmVmiARZ6EAn2Fb
+Inserting (emulator-5556) JlRhbWQoHzywH7JJgL3cVR9EhsRD3Lbr zL54RnhTb0sBMSRORmVtnGImqNhrjdc7
+Inserting (emulator-5556) 7s1haxXnda4iMZ9XdVfDjVoApqAubaSQ 0g0gjjsSltkjH9bIraJ4QjiTHbNNooUd
+Inserting (emulator-5556) zgbFqBgOgAQ86O0s2lR6wdFKVclYJSpS 9NY4OlDzZny96wzjFCx9Nl8I7QDdVRrK
+Inserting from emulator-5558
+Inserting (emulator-5558) hB5dxePUKQULQHuDWpIKIz5RpifOYpDq w7IT6EPw9Lls0o40Yt4tITVK8v4RnlZa
+Inserting (emulator-5558) nyLef9iiFS64lrd182GEXIP0NIvZ9Rej qJIDelD7aWG8Tmp2fxrfbDSFVnTruNRJ
+Inserting (emulator-5558) ClD6uNHKCnwdF51ZEgJQK2QNAqqT2zPF X0RO75zjmuK8NhCv0HcFUtZCLSyEkbNK
+Inserting (emulator-5558) hw37bZaLK9jqsPT2SggOxPxK4RoIyyx9 8dXD3gwfvmT8KpYzRXUUhnrzIkUyGaIM
+Inserting (emulator-5558) i6ZcnPtCrTBHjAq7pgYg1whBsSIhBtkU Q4zggP98SX7UTZs8wpj4tt2Gpd7KVzAv
+Waiting for 5 seconds for insert operations to complete
+Deleting from emulator-5554
+Deleting (emulator-5554) rIsKPObgdaFtnPnw2Wu8OmdWHbaMOj4e
+Deleting (emulator-5554) zOCT2EUJAEXsyPYhznhyQnhojHV3EckE
+Deleting (emulator-5554) hw37bZaLK9jqsPT2SggOxPxK4RoIyyx9
+Deleting (emulator-5554) 4sSEVGpPwcQneFpkECNduPvPhKcGcB3j
+Deleting (emulator-5554) 7s1haxXnda4iMZ9XdVfDjVoApqAubaSQ
+Deleting (emulator-5554) ClD6uNHKCnwdF51ZEgJQK2QNAqqT2zPF
+Deleting (emulator-5554) kp7CUKldNAEaA8X6eKYF0mvT8umFySxJ
+Deleting (emulator-5554) i6ZcnPtCrTBHjAq7pgYg1whBsSIhBtkU
+Deleting (emulator-5554) zgbFqBgOgAQ86O0s2lR6wdFKVclYJSpS
+Deleting (emulator-5554) hB5dxePUKQULQHuDWpIKIz5RpifOYpDq
+Deleting (emulator-5554) nyLef9iiFS64lrd182GEXIP0NIvZ9Rej
+Deleting (emulator-5554) r0vSQXR7hVoLnTPo8CP4dimcp9xRTSTK
+Deleting (emulator-5554) n2THmel594u21HVOvpRa732ScQdoA0xN
+Deleting (emulator-5554) 4FpbNQsnYhfWxf5wJjj0lD1Dp9yZChsw
+Deleting (emulator-5554) JlRhbWQoHzywH7JJgL3cVR9EhsRD3Lbr
+Deleting from emulator-5556
+Deleting (emulator-5556) rIsKPObgdaFtnPnw2Wu8OmdWHbaMOj4e
+Deleting (emulator-5556) zOCT2EUJAEXsyPYhznhyQnhojHV3EckE
+Deleting (emulator-5556) hw37bZaLK9jqsPT2SggOxPxK4RoIyyx9
+Deleting (emulator-5556) 4sSEVGpPwcQneFpkECNduPvPhKcGcB3j
+Deleting (emulator-5556) 7s1haxXnda4iMZ9XdVfDjVoApqAubaSQ
+Deleting (emulator-5556) ClD6uNHKCnwdF51ZEgJQK2QNAqqT2zPF
+Deleting (emulator-5556) kp7CUKldNAEaA8X6eKYF0mvT8umFySxJ
+Deleting (emulator-5556) i6ZcnPtCrTBHjAq7pgYg1whBsSIhBtkU
+Deleting (emulator-5556) zgbFqBgOgAQ86O0s2lR6wdFKVclYJSpS
+Deleting (emulator-5556) hB5dxePUKQULQHuDWpIKIz5RpifOYpDq
+Deleting (emulator-5556) nyLef9iiFS64lrd182GEXIP0NIvZ9Rej
+Deleting (emulator-5556) r0vSQXR7hVoLnTPo8CP4dimcp9xRTSTK
+Deleting (emulator-5556) n2THmel594u21HVOvpRa732ScQdoA0xN
+Deleting (emulator-5556) 4FpbNQsnYhfWxf5wJjj0lD1Dp9yZChsw
+Deleting (emulator-5556) JlRhbWQoHzywH7JJgL3cVR9EhsRD3Lbr
+Deleting from emulator-5558
+Deleting (emulator-5558) rIsKPObgdaFtnPnw2Wu8OmdWHbaMOj4e
+Deleting (emulator-5558) zOCT2EUJAEXsyPYhznhyQnhojHV3EckE
+Deleting (emulator-5558) hw37bZaLK9jqsPT2SggOxPxK4RoIyyx9
+Deleting (emulator-5558) 4sSEVGpPwcQneFpkECNduPvPhKcGcB3j
+Deleting (emulator-5558) 7s1haxXnda4iMZ9XdVfDjVoApqAubaSQ
+Deleting (emulator-5558) ClD6uNHKCnwdF51ZEgJQK2QNAqqT2zPF
+Deleting (emulator-5558) kp7CUKldNAEaA8X6eKYF0mvT8umFySxJ
+Deleting (emulator-5558) i6ZcnPtCrTBHjAq7pgYg1whBsSIhBtkU
+Deleting (emulator-5558) zgbFqBgOgAQ86O0s2lR6wdFKVclYJSpS
+Deleting (emulator-5558) hB5dxePUKQULQHuDWpIKIz5RpifOYpDq
+Deleting (emulator-5558) nyLef9iiFS64lrd182GEXIP0NIvZ9Rej
+Deleting (emulator-5558) r0vSQXR7hVoLnTPo8CP4dimcp9xRTSTK
+Deleting (emulator-5558) n2THmel594u21HVOvpRa732ScQdoA0xN
+Deleting (emulator-5558) 4FpbNQsnYhfWxf5wJjj0lD1Dp9yZChsw
+Deleting (emulator-5558) JlRhbWQoHzywH7JJgL3cVR9EhsRD3Lbr
+Querying from emulator-5556
+Querying (emulator-5556) "*"
+Result: {}
+Total score: 10
